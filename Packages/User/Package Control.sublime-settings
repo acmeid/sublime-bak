@@ -1,0 +1,17 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"EditorConfig",
+		"Emmet",
+		"Package Control",
+		"Theme - Spacegray",
+		"Theme - Watson",
+		"zenburn"
+	]
+}
