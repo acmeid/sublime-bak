@@ -1,126 +1,560 @@
 {
 	"folder_history":
 	[
+		"/E/kaibei/new-admin",
+		"/F/sd",
+		"/E/kaibei/maintance-user-web2/client",
+		"/E/kaibei/maintance-user-web2",
+		"/E/working/trunk/app/CarHelperPCWeb/PCWebpage/hadlink91_admin/front/app",
+		"/E/kaibei/maintance-user-web/client/static/coupon-kongtiao",
+		"/F/acme",
+		"/E/kaibei/maintance-user-web",
+		"/E/kaibei/maintance-business-web",
+		"/E/mobile-startkit/node_modules/vue-validator",
+		"/E/mobile-startkit/components/p/p-chooseParts/images",
+		"/E/chehu",
 		"/E/mobile-startkit"
 	],
 	"last_version": 3083,
-	"last_window_id": 1,
+	"last_window_id": 6,
 	"log_indexing": false,
 	"settings":
 	{
-	},
-	"windows":
-	[
+		"new_window_height": 910.0,
+		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"service",
+						"servicePrice"
+					],
+					[
+						"chooseS",
+						"chooseShopId"
+					],
+					[
+						"shop",
+						"shopId"
+					],
+					[
+						"sho",
+						"shopId"
+					],
+					[
+						"coupo",
+						"couponAmount"
+					],
+					[
+						"ser",
+						"servicePrice"
+					],
+					[
+						"text",
+						"text-indent"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"re",
+						"resent"
+					],
+					[
+						"pro",
+						"productArray"
+					],
+					[
+						"scr",
+						"scrollTop"
+					],
+					[
+						"sc",
+						"scrollT"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"res",
+						"result"
+					],
+					[
+						"process",
+						"process_name"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"let",
+						"left"
+					],
+					[
+						"po",
+						"position"
+					],
+					[
+						"par",
+						"parts"
+					],
+					[
+						"op",
+						"openid"
+					],
+					[
+						"open",
+						"openid"
+					],
+					[
+						"pC",
+						"pCode"
+					],
+					[
+						"pCode",
+						"pCodeNode"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"prod",
+						"productId"
+					],
+					[
+						"item",
+						"itemNode"
+					],
+					[
+						"choose",
+						"chooseCoupon"
+					],
+					[
+						"se",
+						"selected"
+					],
+					[
+						"coupn",
+						"coupon"
+					],
+					[
+						"cou",
+						"couponAmount"
+					],
+					[
+						"serve",
+						"servicePrice"
+					],
+					[
+						"dis",
+						"discountTotal"
+					],
+					[
+						"select",
+						"selectCoupon"
+					],
+					[
+						"add",
+						"address"
+					],
+					[
+						"cont",
+						"content"
+					],
+					[
+						"so",
+						"shop_longitude"
+					],
+					[
+						"la",
+						"shop_latitude"
+					],
+					[
+						"inser",
+						"insertScript"
+					],
+					[
+						"servie",
+						"ddService"
+					],
+					[
+						"coo",
+						"coord_type"
+					],
+					[
+						"sub",
+						"submitOrder"
+					],
+					[
+						"stor",
+						"sessionStorage"
+					],
+					[
+						"w",
+						"warn"
+					],
+					[
+						"wx",
+						"wxTimeout"
+					],
+					[
+						"my",
+						"p-myMessage"
+					],
+					[
+						"b",
+						"both"
+					],
+					[
+						"time",
+						"time1"
+					],
+					[
+						"st",
+						"stepLen"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"con",
+						"content"
+					],
+					[
+						"curr",
+						"currentSelectDay"
+					],
+					[
+						"date",
+						"dateArr"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"sum",
+						"submitOrder2"
+					],
+					[
+						"check",
+						"checkStatus"
+					],
+					[
+						"border-co",
+						"border-color"
+					],
+					[
+						"str",
+						"stringify"
+					],
+					[
+						"_ge",
+						"_getParts"
+					],
+					[
+						"firs",
+						"first-child"
+					],
+					[
+						"dd",
+						"ddService"
+					],
+					[
+						"submitOrder",
+						"p-submitOrder2"
+					],
+					[
+						"ss",
+						"sessionStorage"
+					],
+					[
+						"p",
+						"parts"
+					],
+					[
+						"o",
+						"original"
+					],
+					[
+						"pr",
+						"productName"
+					],
+					[
+						"d",
+						"discountTotal"
+					],
+					[
+						"produ",
+						"productName"
+					],
+					[
+						"get",
+						"_getParts"
+					],
+					[
+						"城市",
+						"城市对应id"
+					],
+					[
+						"city",
+						"cityId"
+					],
+					[
+						"r",
+						"relative"
+					],
+					[
+						"pay",
+						"payment"
+					],
+					[
+						"to",
+						"toFixed"
+					],
+					[
+						"call",
+						"callback"
+					],
+					[
+						"json",
+						"jsonp"
+					],
+					[
+						"mo",
+						"methods"
+					],
+					[
+						"sty",
+						"style"
+					],
+					[
+						"boder",
+						"border-radius"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"s",
+						"solid"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"set",
+						"setTimeout"
+					],
+					[
+						"pa",
+						"padding-top"
+					],
+					[
+						"marg",
+						"margin-top"
+					],
+					[
+						"bordr",
+						"border-box"
+					],
+					[
+						"bor",
+						"border-bottom"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"head",
+						"header	Tag"
+					],
+					[
+						"im",
+						"important"
+					],
+					[
+						"show",
+						"showSort"
+					],
+					[
+						"skin-",
+						"skin-a"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"coup",
+						"couponNum"
+					],
+					[
+						"num",
+						"couponNum"
+					],
+					[
+						"rgb",
+						"rgb()"
+					],
+					[
+						"order",
+						"orderId"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"di",
+						"disabled	Attr"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"wa",
+						"waiting"
+					],
+					[
+						"address",
+						"addressData"
+					],
+					[
+						"border-ra",
+						"border-radius"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"coupon",
+						"coupon_id"
+					],
+					[
+						"produc",
+						"product"
+					],
+					[
+						"parse",
+						"parseInt"
+					],
+					[
+						"product",
+						"productType"
+					],
+					[
+						"de",
+						"defaultCoupon"
+					],
+					[
+						"cu",
+						"couponNum"
+					],
+					[
+						"ty",
+						"tyCoupon"
+					],
+					[
+						"type",
+						"typeName"
+					],
+					[
+						"sele",
+						"select"
+					],
+					[
+						"ons",
+						"onselect"
+					],
+					[
+						"selec",
+						"selected"
+					],
+					[
+						"provi",
+						"sProvince"
+					],
+					[
+						"offset",
+						"offsetTop"
+					],
+					[
+						"elem",
+						"elemTop"
+					],
+					[
+						"border-",
+						"border-bottom"
+					],
+					[
+						"al",
+						"alt	Attr"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"z-",
+						"z-index"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"cl",
+						"clear"
+					],
+					[
+						"font-s",
+						"font-size"
+					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"contents": "'use strict';\n\nvar Vue = require('vue');\n\nVue.component('c-select', {\n    template:　__inline('c-select.tpl'),\n    data: function() {\n        return {\n        }\n   },\n    methods: {\n        onTap:function(item,index){\n            alert(\"123\")\n        }\n    }\n});\n\n\n",
-					"file": "/E/mobile-startkit/components/c/c-select/c-select.js",
-					"file_size": 266,
-					"file_write_time": 130788137528955097,
-					"settings":
-					{
-						"buffer_size": 264,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "",
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "",
-					"file": "/E/mobile-startkit/components/c/c-select/c-select.scss",
-					"file_size": 0,
-					"file_write_time": 130788131680060790,
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "\n<div class=\"c-select\">\n	<ul>\n		<li>选项一</li>\n		<li>选项二</li>\n		<li>选项三</li>\n	</ul>\n</div>\n\n",
-					"file": "/E/mobile-startkit/components/c/c-select/c-select.tpl",
-					"file_size": 108,
-					"file_write_time": 130788133679808699,
-					"settings":
-					{
-						"buffer_size": 90,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/E/mobile-startkit/components/p/p-chooseCoupon/p-chooseCoupon.js",
-					"settings":
-					{
-						"buffer_size": 1626,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/mobile-startkit/components/p/p-chooseCoupon/p-chooseCoupon.tpl",
-					"settings":
-					{
-						"buffer_size": 211,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/mobile-startkit/components/p/p-chooseAddress/p-chooseAddress.tpl",
-					"settings":
-					{
-						"buffer_size": 346,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/E/mobile-startkit/components/c/c-searchbar/c-searchbar.css",
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/mobile-startkit/components/c/c-select/select.tpl",
-					"settings":
-					{
-						"buffer_size": 50,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/E/mobile-startkit/components/c/c-select/select.js",
-					"settings":
-					{
-						"buffer_size": 507,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 			],
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
-				"last_filter": "Package Control: ",
+				"height": 480.0,
+				"last_filter": "pack",
 				"selected_items":
 				[
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
 					[
 						"Package Control: ",
 						"Package Control: Install Package"
@@ -134,7 +568,1402 @@
 						"Toggle Comment"
 					]
 				],
-				"width": 464.0
+				"width": 589.0
+			},
+			"console":
+			{
+				"height": 162.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/kaibei/maintance-user-web2/package.json",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-chooseParts/p-chooseParts.js",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-chooseParts/p-chooseParts.css",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/E/kaibei/maintance-user-web2/components/p/p-useRule/p-useRule.tpl",
+				"/C/Users/Administrator/Desktop/video.js",
+				"/E/kaibei/maintance-user-web2/components/c/c-coupon/c-coupon.tpl",
+				"/E/kaibei/maintance-user-web2/components/c/wx/share.js",
+				"/E/kaibei/maintance-user-web2/client/static/coupon-chongqing/index.js",
+				"/E/kaibei/maintance-user-web2/components/c/c-coupon/c-coupon.js",
+				"/E/kaibei/maintance-user-web2/client/static/coupon/index.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-orderDetail/p-orderDetail.tpl",
+				"/E/kaibei/maintance-user-web2/components/p/p-orderDetail/p-orderDetail.js",
+				"/C/Users/Administrator/Desktop/p-orderDetail/p-orderDetail.js",
+				"/E/kaibei/maintance-user-web2/components/boot/routes.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-cooperation/p-cooperation.tpl",
+				"/E/kaibei/maintance-user-web2/components/p/p-orderDetail/p-orderDetail.scss",
+				"/E/kaibei/maintance-user-web2/components/p/p-cooperation/p-cooperation.js",
+				"/C/Users/Administrator/Desktop/p-orderDetail/p-orderDetail.scss",
+				"/C/Users/Administrator/Desktop/p-orderDetail/p-orderDetail.tpl",
+				"/E/kaibei/maintance-user-web2/components/p/p-home/p-home.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-submitOrder2/p-submitOrder2.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-shopDetail/p-shopDetail.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-chooseStores/p-chooseStores.tpl",
+				"/E/kaibei/maintance-user-web2/components/p/p-chooseStores/p-chooseStores.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-chooseParts/p-chooseParts.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-myOrder/p-myOrder.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-myOrder/p-myOrder.tpl",
+				"/E/kaibei/maintance-user-web2/client/static/coupon-kongtiao/index.js",
+				"/E/kaibei/maintance-user-web2/client/static/coupon-kongtiao/style.css",
+				"/E/kaibei/maintance-user-web2/client/static/coupon-kongtiao/index.html",
+				"/E/kaibei/maintance-user-web2/client/static/coupon-chongqing/style.css",
+				"/E/kaibei/maintance-user-web2/client/static/coupon-chongqing/index.html",
+				"/E/kaibei/maintance-user-web2/components/p/p-submitOrder/p-submitOrder.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-chooseCoupon/p-chooseCoupon.tpl",
+				"/E/kaibei/maintance-user-web2/components/p/p-chooseCoupon/p-chooseCoupon.js",
+				"/E/kaibei/maintance-user-web2/docs/运行项目.md",
+				"/E/kaibei/maintance-user-web2/components/c/c-selector/c-selector.tpl",
+				"/E/kaibei/maintance-user-web2/components/p/p-payment/p-payment.js",
+				"/E/kaibei/maintance-user-web2/client/static/map/map.html",
+				"/E/kaibei/maintance-user-web2/components/p/p-myCoupon/p-myCoupon.js",
+				"/E/kaibei/maintance-user-web2/fis-conf.js",
+				"/E/kaibei/maintance-user-web2/config/config.json",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-addService2/p-addService2.tpl",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-addService2/p-addService2.js",
+				"/E/kaibei/maintance-user-web2/.dist/static/map/map.html",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-addService/p-addService.js",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-about/p-about.js",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/vue.js",
+				"/E/kaibei/maintance-user-web2/components/c/c-coupon/c-coupon.scss",
+				"/E/kaibei/maintance-user-web2/components/p/p-myCoupon/p-myCoupon.scss",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-orderDetail/p-orderDetail.css",
+				"/E/kaibei/maintance-user-web2/components/p/p-addService2/p-addService2.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-home/p-home.tpl",
+				"/E/kaibei/maintance-user-web2/components/p/p-home/p-home.scss",
+				"/E/kaibei/maintance-user-web2/components/p/p-myCoupon/p-myCoupon.tpl",
+				"/E/kaibei/maintance-user-web2/components/p/p-chooseStores/p-chooseStores.scss",
+				"/E/kaibei/maintance-user-web2/components/p/p-chooseSeries/p-chooseSeries.scss",
+				"/E/kaibei/maintance-user-web/client/static/map/map.html",
+				"/E/kaibei/maintance-user-web/client/static/coupon-chongqing/index.html",
+				"/E/kaibei/maintance-user-web/client/static/coupon-chongqing/style.css",
+				"/E/kaibei/maintance-user-web/fis-conf.js",
+				"/E/kaibei/maintance-user-web/components/p/p-orderDetail/p-orderDetail.js",
+				"/E/kaibei/maintance-user-web/.dist/public/c/3.0.0/p/p-addService2/p-addService2.tpl",
+				"/E/kaibei/maintance-user-web/.dist/public/c/vue.js",
+				"/E/kaibei/maintance-user-web/.dist/public/3.0.0/css/global.css",
+				"/E/kaibei/maintance-user-web/config/production.json",
+				"/E/kaibei/maintance-user-web/config/test.json",
+				"/E/kaibei/maintance-user-web/config/development.json",
+				"/E/kaibei/maintance-user-web/config/config.json",
+				"/E/kaibei/maintance-user-web/.dist/static/coupon-chongqing/index.html",
+				"/E/kaibei/maintance-user-web/.dist/static/coupon-chongqing/core.js",
+				"/E/kaibei/maintance-user-web/node_modules/vue-validator/components/yyx990803-vue@dev/src/api/global.js",
+				"/E/kaibei/maintance-user-web/client/css/global.scss",
+				"/E/kaibei/maintance-user-web/package.json",
+				"/E/kaibei/maintance-user-web/components/p/p-myCoupon/p-myCoupon.js",
+				"/E/kaibei/maintance-user-web/components/p/p-myCoupon/p-myCoupon.tpl",
+				"/E/kaibei/maintance-user-web/components/c/c-coupon/c-coupon.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseParts/p-chooseParts.js",
+				"/E/kaibei/maintance-user-web/components/p/p-bindPhone/p-bindPhone.js",
+				"/E/kaibei/maintance-user-web/.dist/public/c/3.0.0/p/p-myCoupon/p-myCoupon.js",
+				"/E/kaibei/maintance-user-web/components/boot/routes.js",
+				"/E/kaibei/maintance-user-web/components/p/p-myMessage/p-myMessage.js",
+				"/E/kaibei/maintance-user-web/components/p/p-detail/p-detail.js",
+				"/E/kaibei/maintance-user-web/client/font/kaibei/demo.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseStores/p-chooseStores.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseProduct2/p-chooseProduct2.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseBrand/p-chooseBrand.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseSeries/p-chooseSeries.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseBrand/p-chooseBrand.tpl",
+				"/E/kaibei/maintance-user-web/components/p/p-addService2/p-addService2.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseShop/p-chooseShop.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseStores/p-chooseStores.tpl",
+				"/E/kaibei/maintance-user-web/.dist/static/coupon-chongqing/index.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseProduct/p-chooseProduct.js",
+				"/E/kaibei/maintance-user-web/components/p/p-about/p-about.tpl",
+				"/E/kaibei/maintance-user-web/components/p/p-myOrder/p-myOrder.js",
+				"/E/kaibei/maintance-user-web/components/p/p-orderDetail/p-orderDetail.tpl",
+				"/E/kaibei/maintance-user-web/components/p/p-myOrder/p-myOrder.tpl",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseTime/p-chooseTime.js",
+				"/E/kaibei/maintance-user-web/components/p/p-submitOrder/p-submitOrder.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseProduct2/p-chooseProduct2.tpl",
+				"/E/kaibei/maintance-user-web/.dist/public/c/3.0.0/p/p-chooseStores/p-chooseStores.js",
+				"/E/kaibei/maintance-user-web/components/p/p-addService/p-addService.js",
+				"/E/kaibei/maintance-user-web/components/p/p-submitOrder2/p-submitOrder2.js",
+				"/E/kaibei/maintance-user-web/client/static/coupon-dida/index.html",
+				"/E/kaibei/maintance-user-web/client/static/coupon-kongtiao/index.js",
+				"/E/kaibei/maintance-user-web/components/p/p-home/p-home.js",
+				"/E/kaibei/maintance-user-web/client/static/coupon-dida/index.js",
+				"/E/kaibei/maintance-user-web/client/static/coupon-kongtiao/index.html",
+				"/E/kaibei/maintance-user-web/.dist/public/c/3.0.0/p/p-home/p-home.js",
+				"/E/kaibei/maintance-user-web/client/static/coupon-chongqing/index.js",
+				"/E/kaibei/maintance-user-web/client/static/coupon/index.html",
+				"/E/kaibei/maintance-user-web/components/p/p-submitOrder2/p-submitOrder2.tpl",
+				"/F/fis test/fis3-demo1/fis-conf.js",
+				"/E/kaibei/maintance-user-web/client/static/coupon/index.js",
+				"/F/fis test/fis3-demo1/demo.js",
+				"/E/kaibei/maintance-user-web/components/p/p-submitOrder/p-submitOrder.tpl",
+				"/F/fis test/fis3-demo1/index.html",
+				"/E/kaibei/maintance-user-web/client/static/coupon-dida/index.css",
+				"/F/fis test/fis3-demo/use-sass/fis-conf.js",
+				"/F/fis test/fis3-demo/use-sass/a.js",
+				"/E/kaibei/maintance-user-web/client/static/coupon-chongqing/core.js",
+				"/E/kaibei/maintance-user-web/components/p/p-home/p-home.scss",
+				"/E/kaibei/maintance-user-web/components/p/p-home/p-home.tpl",
+				"/C/Users/Administrator/Desktop/error.php",
+				"/E/kaibei/maintance-user-web/components/boot/restApi.js",
+				"/E/kaibei/maintance-user-web/client/static/coupon-kongtiao/core.js"
+			],
+			"find":
+			{
+				"height": 46.0
+			},
+			"find_in_files":
+			{
+				"height": 111.0,
+				"where_history":
+				[
+					"E:\\kaibei\\maintance-user-web\\cpmponents",
+					"E:\\kaibei\\maintance-user-web",
+					"E:\\working\\trunk\\app\\CarHelperPCWeb\\PCWebpage\\hadlink91_admin\\front",
+					"E:\\kaibei\\maintance-user-web",
+					"F:\\acme",
+					"E:\\kaibei\\maintance-user-web",
+					"E:\\kaibei\\maintance-user-web\\components",
+					"E:\\kaibei\\maintance-user-web\\components\\p",
+					"E:\\mobile-startkit\\",
+					"E:\\mobile-startkit\\components\\p\\",
+					"E:\\mobile-startkit\\components\\p\\forEach",
+					"E:\\mobile-startkit\\components\\p\\p-submitOrder\\p-submitOrder.js",
+					"E:\\mobile-startkit\\components\\p\\p-chooseParts\\p-chooseParts.js",
+					"E:\\mobile-startkit\\",
+					"E:\\mobile-startkit\\node_modules\\vue-validator",
+					"E:\\mobile-startkit\\",
+					"E:\\mobile-startkit\\components\\p",
+					"",
+					"E:\\mobile-startkit\\components\\p\\p-chooseParts\\images",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"setTime",
+					"alert",
+					"servicePrice.serviceid",
+					"parts",
+					"orderAmount",
+					"alert",
+					"getC",
+					"alert(0)",
+					"alert",
+					"_getParts",
+					"_getCar",
+					"_getParts",
+					"_getShop",
+					"getShop",
+					"join",
+					"服务费",
+					"service",
+					"setTime",
+					"shopServiceId",
+					"getShop",
+					"_getParts",
+					"shopServiceId",
+					"服务费",
+					"_notParts",
+					"getS",
+					"wxShare",
+					"setConfig",
+					"wxShare",
+					"setConfig",
+					"servicePrice",
+					"setConfig",
+					"onMenuShareAppMessage",
+					"onShare",
+					"s-address",
+					"shop",
+					"s-address",
+					"address",
+					"addresss",
+					"商务",
+					"时间",
+					"姓名",
+					"填写姓名",
+					"getC",
+					"orderAmount",
+					"this.orderAmount",
+					"resent",
+					"productArray",
+					"getShop",
+					"服务费",
+					"map",
+					"下一步",
+					"map",
+					"http://api.map.baidu.com/geoconv/v1/?",
+					"_getShop",
+					"getS",
+					"推荐门店",
+					"chooseShop",
+					"chooseStores",
+					"下一步",
+					"getC",
+					"下一步",
+					"getCar",
+					"下一步",
+					"next",
+					"orderStatus",
+					"noParts",
+					"productArray",
+					"partsOriginal",
+					"productArray",
+					"您已",
+					"closeNode",
+					"close",
+					"WEIXIN_TARGET_URL",
+					"use",
+					"dialog",
+					"display",
+					"dialog",
+					"dialog]",
+					"showContainer",
+					"loading",
+					"hideLoading",
+					"loading",
+					"map",
+					"this.shop",
+					"shop",
+					"lat",
+					"map",
+					"coords",
+					"date",
+					"steps.date",
+					"steps[0].date",
+					"steps",
+					"fis-conf",
+					"babel",
+					"uglify",
+					"media",
+					"vdate",
+					"ot",
+					"invalid",
+					"process_name",
+					"orderStatus",
+					"process",
+					"user-car",
+					"service-time",
+					"process",
+					"服务流程",
+					"服务",
+					"{\n",
+					"coupon",
+					"new",
+					"shangmen",
+					"_getService",
+					"shangmen",
+					"border",
+					"coupon",
+					"shangmen",
+					"BMapLib",
+					"BMapLib ",
+					".git",
+					"index.lock'",
+					"E:/kaibei/maintance-user-web/.git/index.lock'",
+					"测试环境",
+					"release",
+					"media",
+					"env",
+					"static",
+					"media",
+					"static"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"this"
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"shopde",
+						"maintance-user-web2\\components\\p\\p-shopDetail\\p-shopDetail.js"
+					],
+					[
+						"choosesho",
+						"maintance-user-web2\\components\\p\\p-chooseShop\\p-chooseShop.js"
+					],
+					[
+						"choosestores",
+						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.js"
+					],
+					[
+						"submit",
+						"maintance-user-web2\\components\\p\\p-submitOrder\\p-submitOrder.js"
+					],
+					[
+						"orderd",
+						"maintance-user-web2\\components\\p\\p-orderDetail\\p-orderDetail.scss"
+					],
+					[
+						"orderdeta",
+						"maintance-user-web2\\components\\p\\p-orderDetail\\p-orderDetail.js"
+					],
+					[
+						"cooperation",
+						"maintance-user-web2\\components\\p\\p-cooperation\\p-cooperation.js"
+					],
+					[
+						"order",
+						"maintance-user-web2\\components\\p\\p-orderDetail\\p-orderDetail.scss"
+					],
+					[
+						"home",
+						"maintance-user-web2\\components\\p\\p-home\\p-home.js"
+					],
+					[
+						"chooseparts",
+						"maintance-user-web2\\components\\p\\p-chooseParts\\p-chooseParts.js"
+					],
+					[
+						"orderde",
+						"maintance-user-web2\\components\\p\\p-orderDetail\\p-orderDetail.js"
+					],
+					[
+						"chooses",
+						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.tpl"
+					],
+					[
+						"choosesto",
+						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.tpl"
+					],
+					[
+						"shopd",
+						"maintance-user-web2\\components\\p\\p-shopDetail\\p-shopDetail.js"
+					],
+					[
+						"myorder",
+						"maintance-user-web2\\components\\p\\p-myOrder\\p-myOrder.tpl"
+					],
+					[
+						"choosestores/",
+						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.js"
+					],
+					[
+						"submitorder",
+						"maintance-user-web2\\components\\p\\p-submitOrder2\\p-submitOrder2.js"
+					],
+					[
+						"chooseparets",
+						"maintance-user-web2\\components\\p\\p-chooseParts\\p-chooseParts.js"
+					],
+					[
+						"choosecoupon",
+						"maintance-user-web2\\components\\p\\p-chooseCoupon\\p-chooseCoupon.tpl"
+					],
+					[
+						"choosecou",
+						"maintance-user-web2\\components\\p\\p-chooseCoupon\\p-chooseCoupon.js"
+					],
+					[
+						"c-select",
+						"maintance-user-web2\\components\\c\\c-selector\\c-selector.tpl"
+					],
+					[
+						"choosest",
+						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.js"
+					],
+					[
+						"mycou",
+						"maintance-user-web2\\components\\p\\p-myCoupon\\p-myCoupon.js"
+					],
+					[
+						"payment",
+						"maintance-user-web2\\components\\p\\p-payment\\p-payment.js"
+					],
+					[
+						"ordrd",
+						"maintance-user-web2\\components\\p\\p-orderDetail\\p-orderDetail.js"
+					],
+					[
+						"map.ht",
+						"maintance-user-web2\\.dist\\static\\map\\map.html"
+					],
+					[
+						"c-coupo",
+						"maintance-user-web2\\components\\c\\c-coupon\\c-coupon.scss"
+					],
+					[
+						"c-coupon",
+						"maintance-user-web2\\components\\c\\c-coupon\\c-coupon.tpl"
+					],
+					[
+						"choosestore",
+						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.scss"
+					],
+					[
+						"choosestoer",
+						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.js"
+					],
+					[
+						"addser",
+						"maintance-user-web2\\components\\p\\p-addService2\\p-addService2.js"
+					],
+					[
+						"myc",
+						"maintance-user-web\\components\\p\\p-myCoupon\\p-myCoupon.tpl"
+					],
+					[
+						"mycoup",
+						"maintance-user-web\\components\\p\\p-myCoupon\\p-myCoupon.js"
+					],
+					[
+						"mymess",
+						"maintance-user-web\\components\\p\\p-myMessage\\p-myMessage.js"
+					],
+					[
+						"deta",
+						"maintance-user-web\\components\\p\\p-detail\\p-detail.js"
+					],
+					[
+						"demo",
+						"maintance-user-web\\client\\font\\kaibei\\demo.js"
+					],
+					[
+						"bindphone",
+						"maintance-user-web\\components\\p\\p-bindPhone\\p-bindPhone.js"
+					],
+					[
+						"choosebrand",
+						"maintance-user-web\\components\\p\\p-chooseBrand\\p-chooseBrand.tpl"
+					],
+					[
+						"chooseproduct",
+						"maintance-user-web\\components\\p\\p-chooseProduct2\\p-chooseProduct2.js"
+					],
+					[
+						"about",
+						"maintance-user-web\\components\\p\\p-about\\p-about.tpl"
+					],
+					[
+						"chooseshop",
+						"maintance-user-web\\components\\p\\p-chooseShop\\p-chooseShop.js"
+					],
+					[
+						"addsre",
+						"maintance-user-web\\components\\p\\p-addService2\\p-addService2.js"
+					],
+					[
+						"choose",
+						"maintance-user-web\\components\\p\\p-chooseStores\\p-chooseStores.tpl"
+					],
+					[
+						"choosetime",
+						"maintance-user-web\\components\\p\\p-chooseTime\\p-chooseTime.js"
+					],
+					[
+						"choosepr",
+						"maintance-user-web\\components\\p\\p-chooseProduct2\\p-chooseProduct2.tpl"
+					],
+					[
+						"choosepro",
+						"maintance-user-web\\components\\p\\p-chooseProduct2\\p-chooseProduct2.js"
+					],
+					[
+						"mycoupon",
+						"maintance-user-web\\components\\p\\p-myCoupon\\p-myCoupon.js"
+					],
+					[
+						"orderphone",
+						"maintance-user-web\\components\\p\\p-orderPhone\\p-orderPhone.js"
+					],
+					[
+						"choosec",
+						"maintance-user-web\\components\\p\\p-chooseCar\\p-chooseCar.js"
+					],
+					[
+						"choosecpu",
+						"maintance-user-web\\components\\p\\p-chooseCoupon\\p-chooseCoupon.js"
+					],
+					[
+						"shopc",
+						"maintance-user-web\\components\\p\\p-shopComment\\p-shopComment.js"
+					],
+					[
+						"choosecoup",
+						"maintance-user-web\\components\\p\\p-chooseCoupon\\p-chooseCoupon.js"
+					],
+					[
+						"chooseb",
+						"maintance-user-web\\components\\p\\p-chooseBrand\\p-chooseBrand.js"
+					],
+					[
+						"shopdeta",
+						"maintance-user-web\\components\\p\\p-shopDetail\\p-shopDetail.tpl"
+					],
+					[
+						"add",
+						"maintance-user-web\\components\\p\\p-addService\\p-addService.js"
+					],
+					[
+						"choosepa",
+						"maintance-user-web\\components\\p\\p-chooseParts\\p-chooseParts.js"
+					],
+					[
+						"rot",
+						"maintance-user-web\\node_modules\\vue-touch\\node_modules\\hammerjs\\src\\recognizers\\rotate.js"
+					],
+					[
+						"p-map",
+						"maintance-user-web\\components\\p\\p-map\\p-map.js"
+					],
+					[
+						"myor",
+						"maintance-user-web\\components\\p\\p-myOrder\\p-myOrder.tpl"
+					],
+					[
+						"date",
+						"maintance-user-web\\node_modules\\swig\\lib\\dateformatter.js"
+					],
+					[
+						"choosepart",
+						"maintance-user-web\\components\\p\\p-chooseParts\\p-chooseParts.tpl"
+					],
+					[
+						"p-about",
+						"maintance-user-web\\components\\p\\p-about\\p-about.tpl"
+					],
+					[
+						"about.",
+						"maintance-user-web\\components\\p\\p-about\\p-about.js"
+					],
+					[
+						"choosestor",
+						"maintance-user-web\\components\\p\\p-chooseStores\\p-chooseStores.js"
+					],
+					[
+						"choosecar",
+						"maintance-user-web\\components\\p\\p-chooseCar\\p-chooseCar.js"
+					],
+					[
+						"refund",
+						"maintance-user-web\\components\\p\\p-refund\\p-refund.tpl"
+					],
+					[
+						"myordr",
+						"maintance-user-web\\components\\p\\p-myOrder\\p-myOrder.tpl"
+					],
+					[
+						"chooseproduc",
+						"maintance-user-web\\components\\p\\p-chooseProduct2\\p-chooseProduct2.tpl"
+					],
+					[
+						"pay",
+						"maintance-user-web\\components\\p\\p-payment\\p-payment.js"
+					],
+					[
+						"choosep",
+						"maintance-user-web\\components\\p\\p-chooseParts\\p-chooseParts.js"
+					],
+					[
+						"adds",
+						"maintance-user-web\\components\\p\\p-addService\\p-addService.js"
+					],
+					[
+						"loading",
+						"maintance-user-web\\components\\c\\c-loading\\c-loading.scss"
+					],
+					[
+						"mycoun",
+						"maintance-user-web\\components\\p\\p-myCoupon\\p-myCoupon.js"
+					],
+					[
+						"mycar",
+						"maintance-user-web\\components\\p\\p-myCar\\p-myCar.js"
+					],
+					[
+						"myme",
+						"maintance-user-web\\components\\p\\p-myMessage\\p-myMessage.tpl"
+					],
+					[
+						"router",
+						"maintance-user-web\\server\\middleware\\router.js"
+					],
+					[
+						"bindp",
+						"maintance-user-web\\components\\p\\p-bindPhone\\p-bindPhone.js"
+					],
+					[
+						"c-load",
+						"maintance-user-web\\components\\c\\c-loading\\c-loading.tpl"
+					],
+					[
+						"payme",
+						"components\\p\\p-payment\\p-payment.js"
+					],
+					[
+						"submitor",
+						"components\\p\\p-submitOrder\\p-submitOrder.scss"
+					],
+					[
+						"orderpho",
+						"components\\p\\p-orderPhone\\p-orderPhone.js"
+					],
+					[
+						"api",
+						"components\\boot\\restApi.js"
+					],
+					[
+						"chooseca",
+						"components\\p\\p-chooseCar\\p-chooseCar.scss"
+					],
+					[
+						"comment",
+						"components\\p\\p-comment\\p-comment.js"
+					],
+					[
+						"commen",
+						"components\\p\\p-comment\\p-comment.js"
+					],
+					[
+						"myo",
+						"components\\p\\p-myOrder\\p-myOrder.js"
+					],
+					[
+						"bindphoe",
+						"components\\p\\p-bindPhone\\p-bindPhone.js"
+					],
+					[
+						"shop",
+						"components\\p\\p-shopComment\\p-shopComment.tpl"
+					],
+					[
+						"chopdeta",
+						"components\\p\\p-shopDetail\\p-shopDetail.js"
+					],
+					[
+						"checkre",
+						"components\\p\\p-checkReport\\p-checkReport.js"
+					],
+					[
+						"ordrde",
+						"components\\p\\p-orderDetail\\p-orderDetail.js"
+					],
+					[
+						"coupo",
+						".dist\\public\\c\\3.0.0\\c\\c-coupon\\c-coupon.js"
+					],
+					[
+						"c-star",
+						"components\\c\\c-star\\c-star.js"
+					],
+					[
+						"orderdea",
+						"components\\p\\p-orderDetail\\p-orderDetail.tpl"
+					],
+					[
+						"chooset",
+						"components\\p\\p-chooseTime\\p-chooseTime.js"
+					],
+					[
+						"dialog",
+						"components\\c\\c-dialog\\c-dialog.js"
+					],
+					[
+						"choosepar",
+						"components\\p\\p-chooseParts\\p-chooseParts.js"
+					],
+					[
+						"check",
+						"components\\p\\p-checkReport\\p-checkReport.js"
+					],
+					[
+						"checkr",
+						"components\\p\\p-checkReport\\p-checkReport.tpl"
+					],
+					[
+						"checkd",
+						"components\\p\\p-checkDetail\\p-checkDetail.scss"
+					],
+					[
+						"report",
+						"components\\p\\p-checkReport\\p-checkReport.tpl"
+					],
+					[
+						"refun",
+						"components\\p\\p-refund\\p-refund.tpl"
+					],
+					[
+						"rest",
+						"maintance-user-web\\components\\boot\\restApi.js"
+					],
+					[
+						"rou",
+						"mobile-startkit\\components\\boot\\routes.js"
+					],
+					[
+						"route",
+						"mobile-startkit\\components\\boot\\routes.js"
+					],
+					[
+						"datepic/",
+						"mobile-startkit\\components\\c\\c-datepicker\\c-datepicker.js"
+					],
+					[
+						"res",
+						"mobile-startkit\\components\\boot\\restApi.js"
+					],
+					[
+						"datepick",
+						"mobile-startkit\\components\\c\\c-datepicker\\c-datepicker.tpl"
+					],
+					[
+						"city",
+						"mobile-startkit\\components\\c\\c-city\\c-city.js"
+					],
+					[
+						"routes",
+						"mobile-startkit\\components\\boot\\routes.js"
+					],
+					[
+						"home.sc",
+						"mobile-startkit\\components\\p\\p-home\\p-home.scss"
+					],
+					[
+						"c-dialog",
+						"mobile-startkit\\components\\c\\c-dialog\\c-dialog.js"
+					],
+					[
+						"p-choose",
+						"components\\p\\p-chooseParts\\p-chooseParts.tpl"
+					],
+					[
+						"p-choosep",
+						"components\\p\\p-chooseParts\\p-chooseParts.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 251.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1340.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"re",
+						"return"
+					],
+					[
+						"Ser",
+						"serviceid"
+					],
+					[
+						"ser",
+						"serviceId"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"service",
+						"servicePrice"
+					],
+					[
+						"chooseS",
+						"chooseShopId"
+					],
+					[
+						"shop",
+						"shopId"
+					],
+					[
+						"sho",
+						"shopId"
+					],
+					[
+						"coupo",
+						"couponAmount"
+					],
+					[
+						"text",
+						"text-indent"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"pro",
+						"productArray"
+					],
+					[
+						"scr",
+						"scrollTop"
+					],
+					[
+						"sc",
+						"scrollT"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"res",
+						"result"
+					],
+					[
+						"process",
+						"process_name"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"let",
+						"left"
+					],
+					[
+						"po",
+						"position"
+					],
+					[
+						"par",
+						"parts"
+					],
+					[
+						"op",
+						"openid"
+					],
+					[
+						"open",
+						"openid"
+					],
+					[
+						"pC",
+						"pCode"
+					],
+					[
+						"pCode",
+						"pCodeNode"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"prod",
+						"productId"
+					],
+					[
+						"item",
+						"itemNode"
+					],
+					[
+						"choose",
+						"chooseCoupon"
+					],
+					[
+						"se",
+						"selected"
+					],
+					[
+						"coupn",
+						"coupon"
+					],
+					[
+						"cou",
+						"couponAmount"
+					],
+					[
+						"serve",
+						"servicePrice"
+					],
+					[
+						"dis",
+						"discountTotal"
+					],
+					[
+						"select",
+						"selectCoupon"
+					],
+					[
+						"add",
+						"address"
+					],
+					[
+						"cont",
+						"content"
+					],
+					[
+						"so",
+						"shop_longitude"
+					],
+					[
+						"la",
+						"shop_latitude"
+					],
+					[
+						"inser",
+						"insertScript"
+					],
+					[
+						"servie",
+						"ddService"
+					],
+					[
+						"coo",
+						"coord_type"
+					],
+					[
+						"sub",
+						"submitOrder"
+					],
+					[
+						"stor",
+						"sessionStorage"
+					],
+					[
+						"w",
+						"warn"
+					],
+					[
+						"wx",
+						"wxTimeout"
+					],
+					[
+						"my",
+						"p-myMessage"
+					],
+					[
+						"b",
+						"both"
+					],
+					[
+						"time",
+						"time1"
+					],
+					[
+						"st",
+						"stepLen"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"con",
+						"content"
+					],
+					[
+						"curr",
+						"currentSelectDay"
+					],
+					[
+						"date",
+						"dateArr"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"sum",
+						"submitOrder2"
+					],
+					[
+						"check",
+						"checkStatus"
+					],
+					[
+						"border-co",
+						"border-color"
+					],
+					[
+						"str",
+						"stringify"
+					],
+					[
+						"_ge",
+						"_getParts"
+					],
+					[
+						"firs",
+						"first-child"
+					],
+					[
+						"dd",
+						"ddService"
+					],
+					[
+						"submitOrder",
+						"p-submitOrder2"
+					],
+					[
+						"ss",
+						"sessionStorage"
+					],
+					[
+						"p",
+						"parts"
+					],
+					[
+						"o",
+						"original"
+					],
+					[
+						"pr",
+						"productName"
+					],
+					[
+						"d",
+						"discountTotal"
+					],
+					[
+						"produ",
+						"productName"
+					],
+					[
+						"get",
+						"_getParts"
+					],
+					[
+						"城市",
+						"城市对应id"
+					],
+					[
+						"city",
+						"cityId"
+					],
+					[
+						"r",
+						"relative"
+					],
+					[
+						"pay",
+						"payment"
+					],
+					[
+						"to",
+						"toFixed"
+					],
+					[
+						"call",
+						"callback"
+					],
+					[
+						"json",
+						"jsonp"
+					],
+					[
+						"mo",
+						"methods"
+					],
+					[
+						"sty",
+						"style"
+					],
+					[
+						"boder",
+						"border-radius"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"s",
+						"solid"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"set",
+						"setTimeout"
+					],
+					[
+						"pa",
+						"padding-top"
+					],
+					[
+						"marg",
+						"margin-top"
+					],
+					[
+						"bordr",
+						"border-box"
+					],
+					[
+						"bor",
+						"border-bottom"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"head",
+						"header	Tag"
+					],
+					[
+						"im",
+						"important"
+					],
+					[
+						"show",
+						"showSort"
+					],
+					[
+						"skin-",
+						"skin-a"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"coup",
+						"couponNum"
+					],
+					[
+						"num",
+						"couponNum"
+					],
+					[
+						"rgb",
+						"rgb()"
+					],
+					[
+						"order",
+						"orderId"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"di",
+						"disabled	Attr"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"wa",
+						"waiting"
+					],
+					[
+						"address",
+						"addressData"
+					],
+					[
+						"border-ra",
+						"border-radius"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"coupon",
+						"coupon_id"
+					],
+					[
+						"produc",
+						"product"
+					],
+					[
+						"parse",
+						"parseInt"
+					],
+					[
+						"product",
+						"productType"
+					],
+					[
+						"de",
+						"defaultCoupon"
+					],
+					[
+						"cu",
+						"couponNum"
+					],
+					[
+						"ty",
+						"tyCoupon"
+					],
+					[
+						"type",
+						"typeName"
+					],
+					[
+						"sele",
+						"select"
+					],
+					[
+						"ons",
+						"onselect"
+					],
+					[
+						"selec",
+						"selected"
+					],
+					[
+						"provi",
+						"sProvince"
+					],
+					[
+						"offset",
+						"offsetTop"
+					],
+					[
+						"elem",
+						"elemTop"
+					],
+					[
+						"border-",
+						"border-bottom"
+					],
+					[
+						"al",
+						"alt	Attr"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"z-",
+						"z-index"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"cl",
+						"clear"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 480.0,
+				"last_filter": "pack",
+				"selected_items":
+				[
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"emmet",
+						"Toggle Comment"
+					]
+				],
+				"width": 589.0
 			},
 			"console":
 			{
@@ -155,50 +1984,169 @@
 			},
 			"expanded_folders":
 			[
-				"/E/mobile-startkit",
-				"/E/mobile-startkit/components",
-				"/E/mobile-startkit/components/boot",
-				"/E/mobile-startkit/components/c",
-				"/E/mobile-startkit/components/c/c-select",
-				"/E/mobile-startkit/components/p",
-				"/E/mobile-startkit/components/p/p-chooseAddress",
-				"/E/mobile-startkit/components/p/p-chooseCoupon"
 			],
 			"file_history":
 			[
-				"/E/mobile-startkit/components/c/select/select.tpl",
-				"/E/mobile-startkit/components/p/p-chooseAddress/p-chooseAddress.js",
-				"/E/mobile-startkit/components/c/select/select.js",
-				"/E/mobile-startkit/components/c/select/select.css",
-				"/E/mobile-startkit/components/c/c-selects/c-selects.js",
-				"/E/mobile-startkit/docs/JavaScript编码规范.md",
-				"/E/mobile-startkit/components/boot/boot.js",
-				"/E/mobile-startkit/docs/运行项目.md",
+				"/E/kaibei/maintance-user-web2/components/p/p-submitOrder/p-submitOrder.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-home/p-home.tpl",
+				"/E/kaibei/maintance-user-web2/components/p/p-chooseStores/p-chooseStores.tpl",
+				"/E/kaibei/maintance-user-web2/components/p/p-chooseStores/p-chooseStores.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-submitOrder2/p-submitOrder2.js",
+				"/E/kaibei/new-admin/server/middleware/csrf.js",
+				"/E/kaibei/new-admin/server/middleware/error.js",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-myOrder/p-myOrder.tpl",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-orderDetail/p-orderDetail.tpl",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-inputReport/p-inputReport.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-inputReport/p-inputReport.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-myOrder/p-myOrder.tpl",
+				"/E/kaibei/maintance-user-web2/package.json",
+				"/F/sd/test/a.js",
+				"/E/kaibei/maintance-user-web2/build/webpack/webpack.config.js",
+				"/E/kaibei/maintance-user-web2/components/boot/restApi.js",
+				"/F/sd/package.json",
+				"/E/kaibei/maintance-user-web2/components/p/p-orderDetail/p-orderDetail.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-orderDetail/p-orderDetail.tpl",
+				"/E/kaibei/maintance-user-web2/client/static/coupon-chongqing/style.css",
+				"/E/kaibei/maintance-user-web2/client/static/coupon-cheyouhui/index.html",
+				"/E/kaibei/maintance-user-web2/components/p/p-confirmCar/p-confirmCar.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-chooseParts/p-chooseParts.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-shopDetail/p-shopDetail.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-chooseShop/p-chooseShop.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-chooseCar/p-chooseCar.js",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-submitOrder2/p-submitOrder2.js",
+				"/E/kaibei/maintance-user-web2/build/gulp/tasks/deploy.js",
+				"/E/kaibei/maintance-user-web2/build/gulp/tasks/deploy/ssh_rollback.js",
+				"/E/kaibei/maintance-user-web2/build/gulp/tasks/deploy/ssh_deploy.js",
+				"/E/kaibei/maintance-user-web2/build/gulp/tasks/csscomb.js",
+				"/E/kaibei/maintance-user-web2/build/gulp/tasks/preinstall.js",
+				"/E/kaibei/maintance-user-web2/build/gulp/tasks/dev.js",
+				"/E/kaibei/maintance-user-web2/config/config.json",
+				"/E/kaibei/maintance-user-web2/config/index.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-useRule/p-useRule.js",
+				"/E/kaibei/maintance-user-web2/server/middleware/static.js",
+				"/E/kaibei/maintance-user-web2/fis-conf.js",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-chooseParts/p-chooseParts.js",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-chooseParts/p-chooseParts.css",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
-				"/C/Users/Administrator/Desktop/jquery.zclip.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/Example.sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/E/mobile-startkit/node_modules/compression/HISTORY.md",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-				"/E/mobile-startkit/docs/HTML编码规范.md",
-				"/C/Users/Administrator/Desktop/jquery.zclip.min.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/ConvertToUTF8.sublime-settings",
-				"/E/mobile-startkit/docs/开源技术.md",
-				"/E/mobile-startkit/docs/CSS编码规范.md",
-				"/E/mobile-startkit/gulpfile.js"
+				"/E/kaibei/maintance-user-web2/components/p/p-useRule/p-useRule.tpl",
+				"/C/Users/Administrator/Desktop/video.js",
+				"/E/kaibei/maintance-user-web2/components/c/c-coupon/c-coupon.tpl",
+				"/E/kaibei/maintance-user-web2/components/c/wx/share.js",
+				"/E/kaibei/maintance-user-web2/client/static/coupon-chongqing/index.js",
+				"/E/kaibei/maintance-user-web2/components/c/c-coupon/c-coupon.js",
+				"/E/kaibei/maintance-user-web2/client/static/coupon/index.js",
+				"/C/Users/Administrator/Desktop/p-orderDetail/p-orderDetail.js",
+				"/E/kaibei/maintance-user-web2/components/boot/routes.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-cooperation/p-cooperation.tpl",
+				"/E/kaibei/maintance-user-web2/components/p/p-orderDetail/p-orderDetail.scss",
+				"/E/kaibei/maintance-user-web2/components/p/p-cooperation/p-cooperation.js",
+				"/C/Users/Administrator/Desktop/p-orderDetail/p-orderDetail.scss",
+				"/C/Users/Administrator/Desktop/p-orderDetail/p-orderDetail.tpl",
+				"/E/kaibei/maintance-user-web2/components/p/p-home/p-home.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-myOrder/p-myOrder.js",
+				"/E/kaibei/maintance-user-web2/client/static/coupon-kongtiao/index.js",
+				"/E/kaibei/maintance-user-web2/client/static/coupon-kongtiao/style.css",
+				"/E/kaibei/maintance-user-web2/client/static/coupon-kongtiao/index.html",
+				"/E/kaibei/maintance-user-web2/client/static/coupon-chongqing/index.html",
+				"/E/kaibei/maintance-user-web2/components/p/p-chooseCoupon/p-chooseCoupon.tpl",
+				"/E/kaibei/maintance-user-web2/components/p/p-chooseCoupon/p-chooseCoupon.js",
+				"/E/kaibei/maintance-user-web2/docs/运行项目.md",
+				"/E/kaibei/maintance-user-web2/components/c/c-selector/c-selector.tpl",
+				"/E/kaibei/maintance-user-web2/components/p/p-payment/p-payment.js",
+				"/E/kaibei/maintance-user-web2/client/static/map/map.html",
+				"/E/kaibei/maintance-user-web2/components/p/p-myCoupon/p-myCoupon.js",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-addService2/p-addService2.tpl",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-addService2/p-addService2.js",
+				"/E/kaibei/maintance-user-web2/.dist/static/map/map.html",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-addService/p-addService.js",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-about/p-about.js",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/vue.js",
+				"/E/kaibei/maintance-user-web2/components/c/c-coupon/c-coupon.scss",
+				"/E/kaibei/maintance-user-web2/components/p/p-myCoupon/p-myCoupon.scss",
+				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-orderDetail/p-orderDetail.css",
+				"/E/kaibei/maintance-user-web2/components/p/p-addService2/p-addService2.js",
+				"/E/kaibei/maintance-user-web2/components/p/p-home/p-home.scss",
+				"/E/kaibei/maintance-user-web2/components/p/p-myCoupon/p-myCoupon.tpl",
+				"/E/kaibei/maintance-user-web2/components/p/p-chooseStores/p-chooseStores.scss",
+				"/E/kaibei/maintance-user-web2/components/p/p-chooseSeries/p-chooseSeries.scss",
+				"/E/kaibei/maintance-user-web/client/static/map/map.html",
+				"/E/kaibei/maintance-user-web/client/static/coupon-chongqing/index.html",
+				"/E/kaibei/maintance-user-web/client/static/coupon-chongqing/style.css",
+				"/E/kaibei/maintance-user-web/fis-conf.js",
+				"/E/kaibei/maintance-user-web/components/p/p-orderDetail/p-orderDetail.js",
+				"/E/kaibei/maintance-user-web/.dist/public/c/3.0.0/p/p-addService2/p-addService2.tpl",
+				"/E/kaibei/maintance-user-web/.dist/public/c/vue.js",
+				"/E/kaibei/maintance-user-web/.dist/public/3.0.0/css/global.css",
+				"/E/kaibei/maintance-user-web/config/production.json",
+				"/E/kaibei/maintance-user-web/config/test.json",
+				"/E/kaibei/maintance-user-web/config/development.json",
+				"/E/kaibei/maintance-user-web/config/config.json",
+				"/E/kaibei/maintance-user-web/.dist/static/coupon-chongqing/index.html",
+				"/E/kaibei/maintance-user-web/.dist/static/coupon-chongqing/core.js",
+				"/E/kaibei/maintance-user-web/node_modules/vue-validator/components/yyx990803-vue@dev/src/api/global.js",
+				"/E/kaibei/maintance-user-web/client/css/global.scss",
+				"/E/kaibei/maintance-user-web/package.json",
+				"/E/kaibei/maintance-user-web/components/p/p-myCoupon/p-myCoupon.js",
+				"/E/kaibei/maintance-user-web/components/p/p-myCoupon/p-myCoupon.tpl",
+				"/E/kaibei/maintance-user-web/components/c/c-coupon/c-coupon.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseParts/p-chooseParts.js",
+				"/E/kaibei/maintance-user-web/components/p/p-bindPhone/p-bindPhone.js",
+				"/E/kaibei/maintance-user-web/.dist/public/c/3.0.0/p/p-myCoupon/p-myCoupon.js",
+				"/E/kaibei/maintance-user-web/components/boot/routes.js",
+				"/E/kaibei/maintance-user-web/components/p/p-myMessage/p-myMessage.js",
+				"/E/kaibei/maintance-user-web/components/p/p-detail/p-detail.js",
+				"/E/kaibei/maintance-user-web/client/font/kaibei/demo.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseStores/p-chooseStores.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseProduct2/p-chooseProduct2.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseBrand/p-chooseBrand.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseSeries/p-chooseSeries.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseBrand/p-chooseBrand.tpl",
+				"/E/kaibei/maintance-user-web/components/p/p-addService2/p-addService2.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseShop/p-chooseShop.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseStores/p-chooseStores.tpl",
+				"/E/kaibei/maintance-user-web/.dist/static/coupon-chongqing/index.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseProduct/p-chooseProduct.js",
+				"/E/kaibei/maintance-user-web/components/p/p-about/p-about.tpl",
+				"/E/kaibei/maintance-user-web/components/p/p-myOrder/p-myOrder.js",
+				"/E/kaibei/maintance-user-web/components/p/p-orderDetail/p-orderDetail.tpl",
+				"/E/kaibei/maintance-user-web/components/p/p-myOrder/p-myOrder.tpl",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseTime/p-chooseTime.js",
+				"/E/kaibei/maintance-user-web/components/p/p-submitOrder/p-submitOrder.js",
+				"/E/kaibei/maintance-user-web/components/p/p-chooseProduct2/p-chooseProduct2.tpl",
+				"/E/kaibei/maintance-user-web/.dist/public/c/3.0.0/p/p-chooseStores/p-chooseStores.js",
+				"/E/kaibei/maintance-user-web/components/p/p-addService/p-addService.js"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 46.0
 			},
 			"find_in_files":
 			{
 				"height": 111.0,
 				"where_history":
 				[
+					"E:\\kaibei\\maintance-user-web2\\",
+					"E:\\kaibei\\maintance-user-web2\\cpmponents",
+					"E:\\kaibei\\maintance-user-web\\cpmponents",
+					"E:\\kaibei\\maintance-user-web",
+					"E:\\working\\trunk\\app\\CarHelperPCWeb\\PCWebpage\\hadlink91_admin\\front",
+					"E:\\kaibei\\maintance-user-web",
+					"F:\\acme",
+					"E:\\kaibei\\maintance-user-web",
+					"E:\\kaibei\\maintance-user-web\\components",
+					"E:\\kaibei\\maintance-user-web\\components\\p",
+					"E:\\mobile-startkit\\",
+					"E:\\mobile-startkit\\components\\p\\",
+					"E:\\mobile-startkit\\components\\p\\forEach",
+					"E:\\mobile-startkit\\components\\p\\p-submitOrder\\p-submitOrder.js",
+					"E:\\mobile-startkit\\components\\p\\p-chooseParts\\p-chooseParts.js",
+					"E:\\mobile-startkit\\",
+					"E:\\mobile-startkit\\node_modules\\vue-validator",
+					"E:\\mobile-startkit\\",
+					"E:\\mobile-startkit\\components\\p",
+					"",
+					"E:\\mobile-startkit\\components\\p\\p-chooseParts\\images",
+					""
 				]
 			},
 			"find_state":
@@ -206,954 +2154,178 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"提交",
+					"_notParts",
+					"ddService",
+					"shopServiceId",
+					"shop_service_id",
+					"this.shopServiceId",
+					"serviceCategoryId",
+					"申请退款",
+					"下一步",
+					"getS",
+					"alert",
+					"getC",
+					"chooseCar",
+					"下一步",
+					"webpack",
+					"loaders",
+					"alert",
+					"push",
+					"split",
+					"serviceP",
+					"getC",
+					"serviceId",
+					"setTime",
+					"alert",
+					"servicePrice.serviceid",
+					"parts",
+					"orderAmount",
+					"alert",
+					"getC",
+					"alert(0)",
+					"alert",
+					"_getParts",
+					"_getCar",
+					"_getParts",
+					"_getShop",
+					"getShop",
+					"join",
+					"服务费",
+					"service",
+					"setTime",
+					"shopServiceId",
+					"getShop",
+					"_getParts",
+					"shopServiceId",
+					"服务费",
+					"_notParts",
+					"getS",
+					"wxShare",
+					"setConfig",
+					"wxShare",
+					"setConfig",
+					"servicePrice",
+					"setConfig",
+					"onMenuShareAppMessage",
+					"onShare",
+					"s-address",
+					"shop",
+					"s-address",
+					"address",
+					"addresss",
+					"商务",
+					"时间",
+					"姓名",
+					"填写姓名",
+					"getC",
+					"orderAmount",
+					"this.orderAmount",
+					"resent",
+					"productArray",
+					"getShop",
+					"服务费",
+					"map",
+					"下一步",
+					"map",
+					"http://api.map.baidu.com/geoconv/v1/?",
+					"_getShop",
+					"getS",
+					"推荐门店",
+					"chooseShop",
+					"chooseStores",
+					"下一步",
+					"getC",
+					"下一步",
+					"getCar",
+					"下一步",
+					"next",
+					"orderStatus",
+					"noParts",
+					"productArray",
+					"partsOriginal",
+					"productArray",
+					"您已",
+					"closeNode",
+					"close",
+					"WEIXIN_TARGET_URL",
+					"use",
+					"dialog",
+					"display",
+					"dialog",
+					"dialog]",
+					"showContainer",
+					"loading",
+					"hideLoading",
+					"loading",
+					"map",
+					"this.shop",
+					"shop",
+					"lat",
+					"map",
+					"coords",
+					"date",
+					"steps.date",
+					"steps[0].date",
+					"steps",
+					"fis-conf",
+					"babel",
+					"uglify",
+					"media",
+					"vdate",
+					"ot",
+					"invalid",
+					"process_name",
+					"orderStatus",
+					"process",
+					"user-car",
+					"service-time",
+					"process",
+					"服务流程"
 				],
-				"highlight": true,
+				"highlight": false,
 				"in_selection": false,
 				"preserve_case": false,
 				"regex": false,
 				"replace_history":
 				[
+					"this"
 				],
 				"reverse": false,
-				"show_context": true,
+				"show_context": false,
 				"use_buffer2": true,
 				"whole_word": false,
-				"wrap": true
+				"wrap": false
 			},
 			"folders":
 			[
 				{
-					"path": "E:\\mobile-startkit"
+					"path": "F:\\acme"
+				},
+				{
+					"path": "E:\\kaibei\\maintance-user-web\\client\\static\\coupon-kongtiao"
+				},
+				{
+					"path": "E:\\kaibei\\maintance-user-web2"
+				},
+				{
+					"path": "F:\\sd"
+				},
+				{
+					"path": "E:\\kaibei\\new-admin"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 6,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/E/mobile-startkit/components/c/c-select/c-select.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 264,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										264,
-										264
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"editorconfig": true,
-									"ensure_newline_at_eof_on_save": true,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true,
-									"trim_trailing_white_space_on_save": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_name": "",
-									"bh_regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"default_dir": "E:\\mobile-startkit\\components\\c\\c-select",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/E/mobile-startkit/components/c/c-select/c-select.scss",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"editorconfig": true,
-									"ensure_newline_at_eof_on_save": true,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true,
-									"trim_trailing_white_space_on_save": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 8,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/E/mobile-startkit/components/c/c-select/c-select.tpl",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 90,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"editorconfig": true,
-									"ensure_newline_at_eof_on_save": true,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/E/mobile-startkit/components/p/p-chooseCoupon/p-chooseCoupon.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1626,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"editorconfig": true,
-									"ensure_newline_at_eof_on_save": true,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true,
-									"trim_trailing_white_space_on_save": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 9,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/E/mobile-startkit/components/p/p-chooseCoupon/p-chooseCoupon.tpl",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 211,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"editorconfig": true,
-									"ensure_newline_at_eof_on_save": true,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/E/mobile-startkit/components/p/p-chooseAddress/p-chooseAddress.tpl",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 346,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										156,
-										162
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"editorconfig": true,
-									"ensure_newline_at_eof_on_save": true,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/E/mobile-startkit/components/c/c-searchbar/c-searchbar.css",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"editorconfig": true,
-									"ensure_newline_at_eof_on_save": true,
-									"syntax": "Packages/CSS/CSS.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true,
-									"trim_trailing_white_space_on_save": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/E/mobile-startkit/components/c/c-select/select.tpl",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 50,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"editorconfig": true,
-									"ensure_newline_at_eof_on_save": true,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/HTML/HTML.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 9,
-							"file": "/E/mobile-startkit/components/c/c-select/select.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 507,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										281,
-										281
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"editorconfig": true,
-									"ensure_newline_at_eof_on_save": true,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true,
-									"trim_trailing_white_space_on_save": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -1187,11 +2359,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,817,612,147,1430",
+			"position": "0,2,3,-32000,-32000,-1,-1,1021,178,41,1536",
 			"project": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1200,6 +2372,466 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"home",
+						"maintance-user-web2\\components\\p\\p-home\\p-home.tpl"
+					],
+					[
+						"choosesto",
+						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.tpl"
+					],
+					[
+						"choosestores",
+						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.js"
+					],
+					[
+						"inputre",
+						"maintance-user-web2\\components\\p\\p-inputReport\\p-inputReport.js"
+					],
+					[
+						"myorder",
+						"maintance-user-web2\\components\\p\\p-myOrder\\p-myOrder.tpl"
+					],
+					[
+						"orderd",
+						"maintance-user-web2\\.dist\\public\\c\\3.0.0\\p\\p-orderDetail\\p-orderDetail.tpl"
+					],
+					[
+						"order",
+						"maintance-user-web2\\components\\p\\p-orderDetail\\p-orderDetail.tpl"
+					],
+					[
+						"submit",
+						"maintance-user-web2\\components\\p\\p-submitOrder2\\p-submitOrder2.js"
+					],
+					[
+						"choosec",
+						"maintance-user-web2\\components\\p\\p-chooseCar\\p-chooseCar.js"
+					],
+					[
+						"shopde",
+						"maintance-user-web2\\components\\p\\p-shopDetail\\p-shopDetail.js"
+					],
+					[
+						"choosesho",
+						"maintance-user-web2\\components\\p\\p-chooseShop\\p-chooseShop.js"
+					],
+					[
+						"orderdeta",
+						"maintance-user-web2\\components\\p\\p-orderDetail\\p-orderDetail.js"
+					],
+					[
+						"cooperation",
+						"maintance-user-web2\\components\\p\\p-cooperation\\p-cooperation.js"
+					],
+					[
+						"chooseparts",
+						"maintance-user-web2\\components\\p\\p-chooseParts\\p-chooseParts.js"
+					],
+					[
+						"orderde",
+						"maintance-user-web2\\components\\p\\p-orderDetail\\p-orderDetail.js"
+					],
+					[
+						"chooses",
+						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.tpl"
+					],
+					[
+						"shopd",
+						"maintance-user-web2\\components\\p\\p-shopDetail\\p-shopDetail.js"
+					],
+					[
+						"choosestores/",
+						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.js"
+					],
+					[
+						"submitorder",
+						"maintance-user-web2\\components\\p\\p-submitOrder2\\p-submitOrder2.js"
+					],
+					[
+						"chooseparets",
+						"maintance-user-web2\\components\\p\\p-chooseParts\\p-chooseParts.js"
+					],
+					[
+						"choosecoupon",
+						"maintance-user-web2\\components\\p\\p-chooseCoupon\\p-chooseCoupon.tpl"
+					],
+					[
+						"choosecou",
+						"maintance-user-web2\\components\\p\\p-chooseCoupon\\p-chooseCoupon.js"
+					],
+					[
+						"c-select",
+						"maintance-user-web2\\components\\c\\c-selector\\c-selector.tpl"
+					],
+					[
+						"choosest",
+						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.js"
+					],
+					[
+						"mycou",
+						"maintance-user-web2\\components\\p\\p-myCoupon\\p-myCoupon.js"
+					],
+					[
+						"payment",
+						"maintance-user-web2\\components\\p\\p-payment\\p-payment.js"
+					],
+					[
+						"ordrd",
+						"maintance-user-web2\\components\\p\\p-orderDetail\\p-orderDetail.js"
+					],
+					[
+						"map.ht",
+						"maintance-user-web2\\.dist\\static\\map\\map.html"
+					],
+					[
+						"c-coupo",
+						"maintance-user-web2\\components\\c\\c-coupon\\c-coupon.scss"
+					],
+					[
+						"c-coupon",
+						"maintance-user-web2\\components\\c\\c-coupon\\c-coupon.tpl"
+					],
+					[
+						"choosestore",
+						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.scss"
+					],
+					[
+						"choosestoer",
+						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.js"
+					],
+					[
+						"addser",
+						"maintance-user-web2\\components\\p\\p-addService2\\p-addService2.js"
+					],
+					[
+						"myc",
+						"maintance-user-web\\components\\p\\p-myCoupon\\p-myCoupon.tpl"
+					],
+					[
+						"mycoup",
+						"maintance-user-web\\components\\p\\p-myCoupon\\p-myCoupon.js"
+					],
+					[
+						"mymess",
+						"maintance-user-web\\components\\p\\p-myMessage\\p-myMessage.js"
+					],
+					[
+						"deta",
+						"maintance-user-web\\components\\p\\p-detail\\p-detail.js"
+					],
+					[
+						"demo",
+						"maintance-user-web\\client\\font\\kaibei\\demo.js"
+					],
+					[
+						"bindphone",
+						"maintance-user-web\\components\\p\\p-bindPhone\\p-bindPhone.js"
+					],
+					[
+						"choosebrand",
+						"maintance-user-web\\components\\p\\p-chooseBrand\\p-chooseBrand.tpl"
+					],
+					[
+						"chooseproduct",
+						"maintance-user-web\\components\\p\\p-chooseProduct2\\p-chooseProduct2.js"
+					],
+					[
+						"about",
+						"maintance-user-web\\components\\p\\p-about\\p-about.tpl"
+					],
+					[
+						"chooseshop",
+						"maintance-user-web\\components\\p\\p-chooseShop\\p-chooseShop.js"
+					],
+					[
+						"addsre",
+						"maintance-user-web\\components\\p\\p-addService2\\p-addService2.js"
+					],
+					[
+						"choose",
+						"maintance-user-web\\components\\p\\p-chooseStores\\p-chooseStores.tpl"
+					],
+					[
+						"choosetime",
+						"maintance-user-web\\components\\p\\p-chooseTime\\p-chooseTime.js"
+					],
+					[
+						"choosepr",
+						"maintance-user-web\\components\\p\\p-chooseProduct2\\p-chooseProduct2.tpl"
+					],
+					[
+						"choosepro",
+						"maintance-user-web\\components\\p\\p-chooseProduct2\\p-chooseProduct2.js"
+					],
+					[
+						"mycoupon",
+						"maintance-user-web\\components\\p\\p-myCoupon\\p-myCoupon.js"
+					],
+					[
+						"orderphone",
+						"maintance-user-web\\components\\p\\p-orderPhone\\p-orderPhone.js"
+					],
+					[
+						"choosecpu",
+						"maintance-user-web\\components\\p\\p-chooseCoupon\\p-chooseCoupon.js"
+					],
+					[
+						"shopc",
+						"maintance-user-web\\components\\p\\p-shopComment\\p-shopComment.js"
+					],
+					[
+						"choosecoup",
+						"maintance-user-web\\components\\p\\p-chooseCoupon\\p-chooseCoupon.js"
+					],
+					[
+						"chooseb",
+						"maintance-user-web\\components\\p\\p-chooseBrand\\p-chooseBrand.js"
+					],
+					[
+						"shopdeta",
+						"maintance-user-web\\components\\p\\p-shopDetail\\p-shopDetail.tpl"
+					],
+					[
+						"add",
+						"maintance-user-web\\components\\p\\p-addService\\p-addService.js"
+					],
+					[
+						"choosepa",
+						"maintance-user-web\\components\\p\\p-chooseParts\\p-chooseParts.js"
+					],
+					[
+						"rot",
+						"maintance-user-web\\node_modules\\vue-touch\\node_modules\\hammerjs\\src\\recognizers\\rotate.js"
+					],
+					[
+						"p-map",
+						"maintance-user-web\\components\\p\\p-map\\p-map.js"
+					],
+					[
+						"myor",
+						"maintance-user-web\\components\\p\\p-myOrder\\p-myOrder.tpl"
+					],
+					[
+						"date",
+						"maintance-user-web\\node_modules\\swig\\lib\\dateformatter.js"
+					],
+					[
+						"choosepart",
+						"maintance-user-web\\components\\p\\p-chooseParts\\p-chooseParts.tpl"
+					],
+					[
+						"p-about",
+						"maintance-user-web\\components\\p\\p-about\\p-about.tpl"
+					],
+					[
+						"about.",
+						"maintance-user-web\\components\\p\\p-about\\p-about.js"
+					],
+					[
+						"choosestor",
+						"maintance-user-web\\components\\p\\p-chooseStores\\p-chooseStores.js"
+					],
+					[
+						"choosecar",
+						"maintance-user-web\\components\\p\\p-chooseCar\\p-chooseCar.js"
+					],
+					[
+						"refund",
+						"maintance-user-web\\components\\p\\p-refund\\p-refund.tpl"
+					],
+					[
+						"myordr",
+						"maintance-user-web\\components\\p\\p-myOrder\\p-myOrder.tpl"
+					],
+					[
+						"chooseproduc",
+						"maintance-user-web\\components\\p\\p-chooseProduct2\\p-chooseProduct2.tpl"
+					],
+					[
+						"pay",
+						"maintance-user-web\\components\\p\\p-payment\\p-payment.js"
+					],
+					[
+						"choosep",
+						"maintance-user-web\\components\\p\\p-chooseParts\\p-chooseParts.js"
+					],
+					[
+						"adds",
+						"maintance-user-web\\components\\p\\p-addService\\p-addService.js"
+					],
+					[
+						"loading",
+						"maintance-user-web\\components\\c\\c-loading\\c-loading.scss"
+					],
+					[
+						"mycoun",
+						"maintance-user-web\\components\\p\\p-myCoupon\\p-myCoupon.js"
+					],
+					[
+						"mycar",
+						"maintance-user-web\\components\\p\\p-myCar\\p-myCar.js"
+					],
+					[
+						"myme",
+						"maintance-user-web\\components\\p\\p-myMessage\\p-myMessage.tpl"
+					],
+					[
+						"router",
+						"maintance-user-web\\server\\middleware\\router.js"
+					],
+					[
+						"bindp",
+						"maintance-user-web\\components\\p\\p-bindPhone\\p-bindPhone.js"
+					],
+					[
+						"c-load",
+						"maintance-user-web\\components\\c\\c-loading\\c-loading.tpl"
+					],
+					[
+						"payme",
+						"components\\p\\p-payment\\p-payment.js"
+					],
+					[
+						"submitor",
+						"components\\p\\p-submitOrder\\p-submitOrder.scss"
+					],
+					[
+						"orderpho",
+						"components\\p\\p-orderPhone\\p-orderPhone.js"
+					],
+					[
+						"api",
+						"components\\boot\\restApi.js"
+					],
+					[
+						"chooseca",
+						"components\\p\\p-chooseCar\\p-chooseCar.scss"
+					],
+					[
+						"comment",
+						"components\\p\\p-comment\\p-comment.js"
+					],
+					[
+						"commen",
+						"components\\p\\p-comment\\p-comment.js"
+					],
+					[
+						"myo",
+						"components\\p\\p-myOrder\\p-myOrder.js"
+					],
+					[
+						"bindphoe",
+						"components\\p\\p-bindPhone\\p-bindPhone.js"
+					],
+					[
+						"shop",
+						"components\\p\\p-shopComment\\p-shopComment.tpl"
+					],
+					[
+						"chopdeta",
+						"components\\p\\p-shopDetail\\p-shopDetail.js"
+					],
+					[
+						"checkre",
+						"components\\p\\p-checkReport\\p-checkReport.js"
+					],
+					[
+						"ordrde",
+						"components\\p\\p-orderDetail\\p-orderDetail.js"
+					],
+					[
+						"coupo",
+						".dist\\public\\c\\3.0.0\\c\\c-coupon\\c-coupon.js"
+					],
+					[
+						"c-star",
+						"components\\c\\c-star\\c-star.js"
+					],
+					[
+						"orderdea",
+						"components\\p\\p-orderDetail\\p-orderDetail.tpl"
+					],
+					[
+						"chooset",
+						"components\\p\\p-chooseTime\\p-chooseTime.js"
+					],
+					[
+						"dialog",
+						"components\\c\\c-dialog\\c-dialog.js"
+					],
+					[
+						"choosepar",
+						"components\\p\\p-chooseParts\\p-chooseParts.js"
+					],
+					[
+						"check",
+						"components\\p\\p-checkReport\\p-checkReport.js"
+					],
+					[
+						"checkr",
+						"components\\p\\p-checkReport\\p-checkReport.tpl"
+					],
+					[
+						"checkd",
+						"components\\p\\p-checkDetail\\p-checkDetail.scss"
+					],
+					[
+						"report",
+						"components\\p\\p-checkReport\\p-checkReport.tpl"
+					],
+					[
+						"refun",
+						"components\\p\\p-refund\\p-refund.tpl"
+					],
+					[
+						"rest",
+						"maintance-user-web\\components\\boot\\restApi.js"
+					],
+					[
+						"rou",
+						"mobile-startkit\\components\\boot\\routes.js"
+					],
+					[
+						"route",
+						"mobile-startkit\\components\\boot\\routes.js"
+					],
+					[
+						"datepic/",
+						"mobile-startkit\\components\\c\\c-datepicker\\c-datepicker.js"
+					],
+					[
+						"res",
+						"mobile-startkit\\components\\boot\\restApi.js"
+					],
+					[
+						"datepick",
+						"mobile-startkit\\components\\c\\c-datepicker\\c-datepicker.tpl"
+					],
+					[
+						"city",
+						"mobile-startkit\\components\\c\\c-city\\c-city.js"
+					],
+					[
+						"routes",
+						"mobile-startkit\\components\\boot\\routes.js"
+					],
+					[
+						"home.sc",
+						"mobile-startkit\\components\\p\\p-home\\p-home.scss"
+					],
+					[
+						"c-dialog",
+						"mobile-startkit\\components\\c\\c-dialog\\c-dialog.js"
+					],
+					[
+						"p-choose",
+						"components\\p\\p-chooseParts\\p-chooseParts.tpl"
+					],
+					[
+						"p-choosep",
+						"components\\p\\p-chooseParts\\p-chooseParts.js"
+					]
 				],
 				"width": 0.0
 			},
@@ -1229,7 +2861,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 250.0,
+			"side_bar_width": 251.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

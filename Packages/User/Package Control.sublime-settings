@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -7,11 +8,23 @@
 		"BracketHighlighter",
 		"ColorPicker",
 		"ConvertToUTF8",
+		"CSScomb",
 		"EditorConfig",
 		"Emmet",
 		"Package Control",
+		"Sass",
+		"SASS Build",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SummitLinter",
+		"Theme - Aprosopo",
+		"Theme - Piatto",
 		"Theme - Spacegray",
 		"Theme - Watson",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package",
+		"Vuejs Snippets",
 		"zenburn"
 	]
 }

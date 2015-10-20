@@ -1,17 +1,12 @@
 {
-	"auto_complete": true,
-	"color_scheme": "Packages/zenburn/zenburn.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
 	"default_encoding": "UTF-8",
-	"dictionary": "Packages/Language - English/en_GB.dic",
-	"dpi_scale": 1.0,
-	"fold_buttons": true,
+	"dpi_scale": 1.2,
 	"font_face": "Consolas",
-	"font_size": 15,
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"line_padding_buttom": 2,
-	"line_padding_top": 2,
-	"tree_animation_enabled": true
+	"theme": "Spacegray.sublime-theme"
 }
