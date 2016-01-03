@@ -1,26 +1,16 @@
 {
 	"folder_history":
 	[
-		"/E/kaibei/new-admin",
-		"/F/sd",
-		"/E/kaibei/maintance-user-web2/client",
-		"/E/kaibei/maintance-user-web2",
-		"/E/working/trunk/app/CarHelperPCWeb/PCWebpage/hadlink91_admin/front/app",
-		"/E/kaibei/maintance-user-web/client/static/coupon-kongtiao",
-		"/F/acme",
-		"/E/kaibei/maintance-user-web",
-		"/E/kaibei/maintance-business-web",
-		"/E/mobile-startkit/node_modules/vue-validator",
-		"/E/mobile-startkit/components/p/p-chooseParts/images",
-		"/E/chehu",
-		"/E/mobile-startkit"
+		"/E/hadlink/kaibei-weixin-3.0",
+		"/E/hadlink/vue-vuex",
+		"/E/hadlink/new-admin"
 	],
 	"last_version": 3083,
-	"last_window_id": 6,
+	"last_window_id": 2,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 910.0,
+		"new_window_height": 480.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -28,515 +18,103 @@
 				"selected_items":
 				[
 					[
-						"service",
-						"servicePrice"
-					],
-					[
-						"chooseS",
-						"chooseShopId"
-					],
-					[
-						"shop",
-						"shopId"
-					],
-					[
-						"sho",
-						"shopId"
-					],
-					[
-						"coupo",
-						"couponAmount"
-					],
-					[
-						"ser",
-						"servicePrice"
-					],
-					[
-						"text",
-						"text-indent"
+						"loca",
+						"locationCity"
 					],
 					[
 						"mar",
-						"margin-right"
+						"margin-bottom"
 					],
 					[
-						"wid",
-						"width"
-					],
-					[
-						"re",
-						"resent"
-					],
-					[
-						"pro",
-						"productArray"
-					],
-					[
-						"scr",
-						"scrollTop"
-					],
-					[
-						"sc",
-						"scrollT"
-					],
-					[
-						"border",
-						"border"
-					],
-					[
-						"res",
-						"result"
-					],
-					[
-						"process",
-						"process_name"
-					],
-					[
-						"pos",
-						"position"
-					],
-					[
-						"padd",
-						"padding"
-					],
-					[
-						"let",
-						"left"
-					],
-					[
-						"po",
-						"position"
-					],
-					[
-						"par",
-						"parts"
-					],
-					[
-						"op",
-						"openid"
-					],
-					[
-						"open",
-						"openid"
-					],
-					[
-						"pC",
-						"pCode"
-					],
-					[
-						"pCode",
-						"pCodeNode"
-					],
-					[
-						"te",
-						"text-align"
-					],
-					[
-						"back",
-						"background"
-					],
-					[
-						"prod",
-						"productId"
-					],
-					[
-						"item",
-						"itemNode"
-					],
-					[
-						"choose",
-						"chooseCoupon"
-					],
-					[
-						"se",
-						"selected"
-					],
-					[
-						"coupn",
-						"coupon"
-					],
-					[
-						"cou",
-						"couponAmount"
-					],
-					[
-						"serve",
-						"servicePrice"
-					],
-					[
-						"dis",
-						"discountTotal"
-					],
-					[
-						"select",
-						"selectCoupon"
-					],
-					[
-						"add",
-						"address"
-					],
-					[
-						"cont",
-						"content"
-					],
-					[
-						"so",
-						"shop_longitude"
-					],
-					[
-						"la",
-						"shop_latitude"
-					],
-					[
-						"inser",
-						"insertScript"
-					],
-					[
-						"servie",
-						"ddService"
-					],
-					[
-						"coo",
-						"coord_type"
-					],
-					[
-						"sub",
-						"submitOrder"
-					],
-					[
-						"stor",
-						"sessionStorage"
-					],
-					[
-						"w",
-						"warn"
-					],
-					[
-						"wx",
-						"wxTimeout"
-					],
-					[
-						"my",
-						"p-myMessage"
-					],
-					[
-						"b",
-						"both"
-					],
-					[
-						"time",
-						"time1"
-					],
-					[
-						"st",
-						"stepLen"
+						"n",
+						"normal"
 					],
 					[
 						"margin",
-						"margin-right"
-					],
-					[
-						"con",
-						"content"
-					],
-					[
-						"curr",
-						"currentSelectDay"
-					],
-					[
-						"date",
-						"dateArr"
-					],
-					[
-						"for",
-						"forEach"
-					],
-					[
-						"sum",
-						"submitOrder2"
-					],
-					[
-						"check",
-						"checkStatus"
-					],
-					[
-						"border-co",
-						"border-color"
-					],
-					[
-						"str",
-						"stringify"
-					],
-					[
-						"_ge",
-						"_getParts"
-					],
-					[
-						"firs",
-						"first-child"
-					],
-					[
-						"dd",
-						"ddService"
-					],
-					[
-						"submitOrder",
-						"p-submitOrder2"
-					],
-					[
-						"ss",
-						"sessionStorage"
-					],
-					[
-						"p",
-						"parts"
-					],
-					[
-						"o",
-						"original"
-					],
-					[
-						"pr",
-						"productName"
-					],
-					[
-						"d",
-						"discountTotal"
-					],
-					[
-						"produ",
-						"productName"
-					],
-					[
-						"get",
-						"_getParts"
-					],
-					[
-						"城市",
-						"城市对应id"
-					],
-					[
-						"city",
-						"cityId"
-					],
-					[
-						"r",
-						"relative"
-					],
-					[
-						"pay",
-						"payment"
-					],
-					[
-						"to",
-						"toFixed"
-					],
-					[
-						"call",
-						"callback"
-					],
-					[
-						"json",
-						"jsonp"
-					],
-					[
-						"mo",
-						"methods"
-					],
-					[
-						"sty",
-						"style"
-					],
-					[
-						"boder",
-						"border-radius"
-					],
-					[
-						"max",
-						"max-width"
-					],
-					[
-						"pad",
-						"padding"
-					],
-					[
-						"s",
-						"solid"
-					],
-					[
-						"min",
-						"min-height"
-					],
-					[
-						"set",
-						"setTimeout"
-					],
-					[
-						"pa",
-						"padding-top"
-					],
-					[
-						"marg",
 						"margin-top"
 					],
 					[
-						"bordr",
-						"border-box"
-					],
-					[
-						"bor",
-						"border-bottom"
-					],
-					[
-						"ma",
-						"margin"
-					],
-					[
-						"head",
-						"header	Tag"
-					],
-					[
-						"im",
-						"important"
-					],
-					[
-						"show",
-						"showSort"
-					],
-					[
-						"skin-",
-						"skin-a"
-					],
-					[
-						"tex",
-						"text-align"
-					],
-					[
-						"coup",
-						"couponNum"
-					],
-					[
-						"num",
-						"couponNum"
-					],
-					[
-						"rgb",
-						"rgb()"
-					],
-					[
-						"order",
-						"orderId"
-					],
-					[
-						"bac",
-						"background"
-					],
-					[
-						"di",
-						"disabled	Attr"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"wa",
-						"waiting"
-					],
-					[
-						"address",
-						"addressData"
-					],
-					[
-						"border-ra",
-						"border-radius"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"coupon",
-						"coupon_id"
-					],
-					[
-						"produc",
-						"product"
-					],
-					[
-						"parse",
-						"parseInt"
-					],
-					[
-						"product",
-						"productType"
-					],
-					[
-						"de",
-						"defaultCoupon"
-					],
-					[
-						"cu",
-						"couponNum"
-					],
-					[
-						"ty",
-						"tyCoupon"
-					],
-					[
-						"type",
-						"typeName"
-					],
-					[
-						"sele",
-						"select"
-					],
-					[
-						"ons",
-						"onselect"
-					],
-					[
-						"selec",
-						"selected"
-					],
-					[
-						"provi",
-						"sProvince"
-					],
-					[
-						"offset",
-						"offsetTop"
-					],
-					[
-						"elem",
-						"elemTop"
-					],
-					[
-						"border-",
-						"border-bottom"
-					],
-					[
-						"al",
-						"alt	Attr"
+						"syt",
+						"styles"
 					],
 					[
 						"z",
 						"z-index"
 					],
 					[
-						"z-",
-						"z-index"
+						"bor",
+						"border"
 					],
 					[
-						"line",
-						"line-height"
+						"tex",
+						"text-align"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"sL",
+						"Slider"
+					],
+					[
+						"border-",
+						"border-radius"
+					],
+					[
+						"car",
+						"carModel"
+					],
+					[
+						"par",
+						"parentId"
 					],
 					[
 						"cl",
 						"clear"
 					],
 					[
-						"font-s",
+						"mi",
+						"middle"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"main",
+						"mainData"
+					],
+					[
+						"hot",
+						"hotData"
+					],
+					[
+						"de",
+						"default"
+					],
+					[
+						"crea",
+						"createDialog"
+					],
+					[
+						"tit",
+						"title"
+					],
+					[
+						"mo",
+						"modalClass"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"in",
+						"include"
+					],
+					[
+						"font",
 						"font-size"
 					]
 				]
@@ -548,34 +126,21 @@
 			"command_palette":
 			{
 				"height": 480.0,
-				"last_filter": "pack",
+				"last_filter": "Package Control: ",
 				"selected_items":
 				[
 					[
-						"pack",
-						"Package Control: List Packages"
-					],
-					[
 						"Package Control: ",
 						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"emmet",
-						"Toggle Comment"
 					]
 				],
 				"width": 589.0
 			},
 			"console":
 			{
-				"height": 162.0,
+				"height": 0.0,
 				"history":
 				[
-					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -589,164 +154,139 @@
 			},
 			"file_history":
 			[
-				"/E/kaibei/maintance-user-web2/package.json",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-chooseParts/p-chooseParts.js",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-chooseParts/p-chooseParts.css",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/E/kaibei/maintance-user-web2/components/p/p-useRule/p-useRule.tpl",
-				"/C/Users/Administrator/Desktop/video.js",
-				"/E/kaibei/maintance-user-web2/components/c/c-coupon/c-coupon.tpl",
-				"/E/kaibei/maintance-user-web2/components/c/wx/share.js",
-				"/E/kaibei/maintance-user-web2/client/static/coupon-chongqing/index.js",
-				"/E/kaibei/maintance-user-web2/components/c/c-coupon/c-coupon.js",
-				"/E/kaibei/maintance-user-web2/client/static/coupon/index.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-orderDetail/p-orderDetail.tpl",
-				"/E/kaibei/maintance-user-web2/components/p/p-orderDetail/p-orderDetail.js",
-				"/C/Users/Administrator/Desktop/p-orderDetail/p-orderDetail.js",
-				"/E/kaibei/maintance-user-web2/components/boot/routes.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-cooperation/p-cooperation.tpl",
-				"/E/kaibei/maintance-user-web2/components/p/p-orderDetail/p-orderDetail.scss",
-				"/E/kaibei/maintance-user-web2/components/p/p-cooperation/p-cooperation.js",
-				"/C/Users/Administrator/Desktop/p-orderDetail/p-orderDetail.scss",
-				"/C/Users/Administrator/Desktop/p-orderDetail/p-orderDetail.tpl",
-				"/E/kaibei/maintance-user-web2/components/p/p-home/p-home.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-submitOrder2/p-submitOrder2.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-shopDetail/p-shopDetail.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-chooseStores/p-chooseStores.tpl",
-				"/E/kaibei/maintance-user-web2/components/p/p-chooseStores/p-chooseStores.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-chooseParts/p-chooseParts.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-myOrder/p-myOrder.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-myOrder/p-myOrder.tpl",
-				"/E/kaibei/maintance-user-web2/client/static/coupon-kongtiao/index.js",
-				"/E/kaibei/maintance-user-web2/client/static/coupon-kongtiao/style.css",
-				"/E/kaibei/maintance-user-web2/client/static/coupon-kongtiao/index.html",
-				"/E/kaibei/maintance-user-web2/client/static/coupon-chongqing/style.css",
-				"/E/kaibei/maintance-user-web2/client/static/coupon-chongqing/index.html",
-				"/E/kaibei/maintance-user-web2/components/p/p-submitOrder/p-submitOrder.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-chooseCoupon/p-chooseCoupon.tpl",
-				"/E/kaibei/maintance-user-web2/components/p/p-chooseCoupon/p-chooseCoupon.js",
-				"/E/kaibei/maintance-user-web2/docs/运行项目.md",
-				"/E/kaibei/maintance-user-web2/components/c/c-selector/c-selector.tpl",
-				"/E/kaibei/maintance-user-web2/components/p/p-payment/p-payment.js",
-				"/E/kaibei/maintance-user-web2/client/static/map/map.html",
-				"/E/kaibei/maintance-user-web2/components/p/p-myCoupon/p-myCoupon.js",
-				"/E/kaibei/maintance-user-web2/fis-conf.js",
-				"/E/kaibei/maintance-user-web2/config/config.json",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-addService2/p-addService2.tpl",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-addService2/p-addService2.js",
-				"/E/kaibei/maintance-user-web2/.dist/static/map/map.html",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-addService/p-addService.js",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-about/p-about.js",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/vue.js",
-				"/E/kaibei/maintance-user-web2/components/c/c-coupon/c-coupon.scss",
-				"/E/kaibei/maintance-user-web2/components/p/p-myCoupon/p-myCoupon.scss",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-orderDetail/p-orderDetail.css",
-				"/E/kaibei/maintance-user-web2/components/p/p-addService2/p-addService2.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-home/p-home.tpl",
-				"/E/kaibei/maintance-user-web2/components/p/p-home/p-home.scss",
-				"/E/kaibei/maintance-user-web2/components/p/p-myCoupon/p-myCoupon.tpl",
-				"/E/kaibei/maintance-user-web2/components/p/p-chooseStores/p-chooseStores.scss",
-				"/E/kaibei/maintance-user-web2/components/p/p-chooseSeries/p-chooseSeries.scss",
-				"/E/kaibei/maintance-user-web/client/static/map/map.html",
-				"/E/kaibei/maintance-user-web/client/static/coupon-chongqing/index.html",
-				"/E/kaibei/maintance-user-web/client/static/coupon-chongqing/style.css",
-				"/E/kaibei/maintance-user-web/fis-conf.js",
-				"/E/kaibei/maintance-user-web/components/p/p-orderDetail/p-orderDetail.js",
-				"/E/kaibei/maintance-user-web/.dist/public/c/3.0.0/p/p-addService2/p-addService2.tpl",
-				"/E/kaibei/maintance-user-web/.dist/public/c/vue.js",
-				"/E/kaibei/maintance-user-web/.dist/public/3.0.0/css/global.css",
-				"/E/kaibei/maintance-user-web/config/production.json",
-				"/E/kaibei/maintance-user-web/config/test.json",
-				"/E/kaibei/maintance-user-web/config/development.json",
-				"/E/kaibei/maintance-user-web/config/config.json",
-				"/E/kaibei/maintance-user-web/.dist/static/coupon-chongqing/index.html",
-				"/E/kaibei/maintance-user-web/.dist/static/coupon-chongqing/core.js",
-				"/E/kaibei/maintance-user-web/node_modules/vue-validator/components/yyx990803-vue@dev/src/api/global.js",
-				"/E/kaibei/maintance-user-web/client/css/global.scss",
-				"/E/kaibei/maintance-user-web/package.json",
-				"/E/kaibei/maintance-user-web/components/p/p-myCoupon/p-myCoupon.js",
-				"/E/kaibei/maintance-user-web/components/p/p-myCoupon/p-myCoupon.tpl",
-				"/E/kaibei/maintance-user-web/components/c/c-coupon/c-coupon.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseParts/p-chooseParts.js",
-				"/E/kaibei/maintance-user-web/components/p/p-bindPhone/p-bindPhone.js",
-				"/E/kaibei/maintance-user-web/.dist/public/c/3.0.0/p/p-myCoupon/p-myCoupon.js",
-				"/E/kaibei/maintance-user-web/components/boot/routes.js",
-				"/E/kaibei/maintance-user-web/components/p/p-myMessage/p-myMessage.js",
-				"/E/kaibei/maintance-user-web/components/p/p-detail/p-detail.js",
-				"/E/kaibei/maintance-user-web/client/font/kaibei/demo.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseStores/p-chooseStores.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseProduct2/p-chooseProduct2.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseBrand/p-chooseBrand.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseSeries/p-chooseSeries.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseBrand/p-chooseBrand.tpl",
-				"/E/kaibei/maintance-user-web/components/p/p-addService2/p-addService2.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseShop/p-chooseShop.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseStores/p-chooseStores.tpl",
-				"/E/kaibei/maintance-user-web/.dist/static/coupon-chongqing/index.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseProduct/p-chooseProduct.js",
-				"/E/kaibei/maintance-user-web/components/p/p-about/p-about.tpl",
-				"/E/kaibei/maintance-user-web/components/p/p-myOrder/p-myOrder.js",
-				"/E/kaibei/maintance-user-web/components/p/p-orderDetail/p-orderDetail.tpl",
-				"/E/kaibei/maintance-user-web/components/p/p-myOrder/p-myOrder.tpl",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseTime/p-chooseTime.js",
-				"/E/kaibei/maintance-user-web/components/p/p-submitOrder/p-submitOrder.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseProduct2/p-chooseProduct2.tpl",
-				"/E/kaibei/maintance-user-web/.dist/public/c/3.0.0/p/p-chooseStores/p-chooseStores.js",
-				"/E/kaibei/maintance-user-web/components/p/p-addService/p-addService.js",
-				"/E/kaibei/maintance-user-web/components/p/p-submitOrder2/p-submitOrder2.js",
-				"/E/kaibei/maintance-user-web/client/static/coupon-dida/index.html",
-				"/E/kaibei/maintance-user-web/client/static/coupon-kongtiao/index.js",
-				"/E/kaibei/maintance-user-web/components/p/p-home/p-home.js",
-				"/E/kaibei/maintance-user-web/client/static/coupon-dida/index.js",
-				"/E/kaibei/maintance-user-web/client/static/coupon-kongtiao/index.html",
-				"/E/kaibei/maintance-user-web/.dist/public/c/3.0.0/p/p-home/p-home.js",
-				"/E/kaibei/maintance-user-web/client/static/coupon-chongqing/index.js",
-				"/E/kaibei/maintance-user-web/client/static/coupon/index.html",
-				"/E/kaibei/maintance-user-web/components/p/p-submitOrder2/p-submitOrder2.tpl",
-				"/F/fis test/fis3-demo1/fis-conf.js",
-				"/E/kaibei/maintance-user-web/client/static/coupon/index.js",
-				"/F/fis test/fis3-demo1/demo.js",
-				"/E/kaibei/maintance-user-web/components/p/p-submitOrder/p-submitOrder.tpl",
-				"/F/fis test/fis3-demo1/index.html",
-				"/E/kaibei/maintance-user-web/client/static/coupon-dida/index.css",
-				"/F/fis test/fis3-demo/use-sass/fis-conf.js",
-				"/F/fis test/fis3-demo/use-sass/a.js",
-				"/E/kaibei/maintance-user-web/client/static/coupon-chongqing/core.js",
-				"/E/kaibei/maintance-user-web/components/p/p-home/p-home.scss",
-				"/E/kaibei/maintance-user-web/components/p/p-home/p-home.tpl",
-				"/C/Users/Administrator/Desktop/error.php",
-				"/E/kaibei/maintance-user-web/components/boot/restApi.js",
-				"/E/kaibei/maintance-user-web/client/static/coupon-kongtiao/core.js"
+				"/E/hadlink/vue-vuex/config/development.json",
+				"/E/hadlink/vue-vuex2/package.json",
+				"/E/hadlink/vue-vuex/package.json",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-slider/c-slider.tpl",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-slider/c-slider.scss",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-slider/c-slider.js",
+				"/E/hadlink/vue-vuex/src/styles/css/base/_reset.scss",
+				"/E/hadlink/vue-vuex/src/index.html",
+				"/E/hadlink/vue-vuex/src/components/Slider.vue",
+				"/E/hadlink/vue-vuex/src/util/scorll.js",
+				"/E/hadlink/vue-vuex/src/util/directives/tap.js",
+				"/E/hadlink/vue-vuex/src/views/Profile.vue",
+				"/E/hadlink/vue-vuex/src/styles/css/_variable.scss",
+				"/E/hadlink/vue-vuex/src/styles/css/global.scss",
+				"/E/hadlink/vue-vuex/src/util/dom.js",
+				"/E/hadlink/vue-vuex/src/views/CarYear.vue",
+				"/E/hadlink/vue-vuex/src/views/CarDisplacement.vue",
+				"/E/hadlink/vue-vuex/src/views/CarModel.vue",
+				"/E/hadlink/vue-vuex/src/views/CarBrand.vue",
+				"/E/hadlink/vue-vuex/src/views/MyOrder.vue",
+				"/E/hadlink/vue-vuex/src/views/Saleback.vue",
+				"/E/hadlink/vue-vuex/src/views/OrderDetail.vue",
+				"/E/hadlink/new-admin/src/views/data/car-model.vue",
+				"/E/hadlink/vue-vuex/src/views/CarOrigin.vue",
+				"/E/hadlink/vue-vuex/src/components/Contacts.vue",
+				"/E/hadlink/vue-vuex/src/components/Dialog.vue",
+				"/E/hadlink/kaibei-weixin-3.0/client/static/luckyDraw/index.html",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-payment/p-payment.js",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-chooseBrand/p-chooseBrand.tpl",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-chooseBrand/p-chooseBrand.js",
+				"/E/hadlink/vue-vuex/src/views/NotFound.vue",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-chooseBrand/p-chooseBrand.scss",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-contacts/c-contacts.scss",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-contacts/c-contacts.js",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-contacts/c-contacts.tpl",
+				"/E/hadlink/vue-vuex/src/styles/css/base/_type.scss",
+				"/E/hadlink/kaibei-weixin-3.0/client/static/luckyDraw/index.js",
+				"/E/hadlink/vue-vuex/src/styles/css/_mixin.scss",
+				"/E/hadlink/vue-vuex/src/styles/css/util/_layout.scss",
+				"/E/hadlink/vue-vuex/src/route/index.js",
+				"/E/hadlink/new-admin/src/component/tips.vue",
+				"/E/hadlink/vue-vuex/src/components/Tips.vue",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-demo/p-demo.js",
+				"/E/hadlink/vue-vuex/src/store/types.js",
+				"/E/hadlink/new-admin/src/views/data/car-logo.vue",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-dialog/c-dialog.js",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-comment/c-comment.tpl",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-demo/p-demo.tpl",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-chooseParts/p-chooseParts.js",
+				"/E/hadlink/vue-vuex/src/store/actions.js",
+				"/E/hadlink/vue-vuex/src/store/mutations.js",
+				"/E/hadlink/new-admin/src/component/dialog.vue",
+				"/E/hadlink/vue-vuex/src/index.js",
+				"/E/hadlink/vue-vuex/.dist/public/app.js",
+				"/E/hadlink/vue-vuex/src/views/App.vue",
+				"/E/hadlink/new-admin/src/views/app.vue",
+				"/E/hadlink/new-admin/src/index.js",
+				"/E/hadlink/vue-vuex/src/store/middlewares.js",
+				"/E/hadlink/vue-vuex/src/store/index.js",
+				"/E/hadlink/vue-vuex/src/store/states.js",
+				"/C/Users/acme/Desktop/yy/sll/draw.css",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-dialog/c-dialog.tpl",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-dialog/c-dialog.scss",
+				"/E/hadlink/new-admin/src/views/data/parts-brand.vue",
+				"/E/hadlink/new-admin/src/views/data/car-model-config.vue",
+				"/E/hadlink/new-admin/src/views/other/login.vue",
+				"/E/hadlink/new-admin/src/component/loading.vue",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-tips/c-tips.scss",
+				"/E/hadlink/vue-vuex/src/styles/css/base/_icon.scss",
+				"/E/hadlink/kaibei-weixin-3.0/package.json",
+				"/E/hadlink/vue-vuex/src/api/index.js",
+				"/E/hadlink/vue-vuex/build/webpack/_base.js",
+				"/C/Users/acme/Desktop/yy/sll/draw.js",
+				"/C/Users/acme/Desktop/yy/sll/draw.html",
+				"/E/hadlink/new-admin/src/component/paging.vue",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-tips/c-tips.js",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-tips/c-tips.tpl",
+				"/E/hadlink/vue-vuex/src/views/Demo.vue",
+				"/E/hadlink/vue-vuex/src/util/index.js",
+				"/C/Users/acme/AppData/Roaming/Sublime Text 3/Packages/cssrem/cssrem.sublime-settings",
+				"/C/Users/acme/AppData/Roaming/Sublime Text 3/Packages/User/cssrem.sublime-settings",
+				"/E/hadlink/vue-vuex/src/views/ComponentsDemo.vue",
+				"/E/hadlink/vue-vuex/src/views/Components.vue",
+				"/E/hadlink/new-admin/src/routes/index.js",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-demo/p-demo.css",
+				"/E/hadlink/vue-vuex/src/views/Home.vue",
+				"/E/hadlink/vue-vuex/src/views/Login.vue",
+				"/E/hadlink/vue-vuex/README.md",
+				"/C/Users/acme/Desktop/0.3.4",
+				"/E/hadlink/vue-vuex/src/components/Carousel.vue",
+				"/E/hadlink/vue-vuex/src/views/home.vue",
+				"/E/hadlink/vue-vuex/config/index.js",
+				"/E/hadlink/vue-vuex/src/views/components.vue",
+				"/E/hadlink/vue-vuex/src/views/app.vue",
+				"/E/hadlink/new-admin/config/config.json",
+				"/E/hadlink/new-admin/config/development.json",
+				"/E/hadlink/new-admin/config/index.js",
+				"/E/hadlink/new-admin/config/production.json",
+				"/E/hadlink/new-admin/config/test.json",
+				"/E/hadlink/new-admin/build/webpack/development.js",
+				"/E/hadlink/new-admin/build/webpack/production.js",
+				"/E/hadlink/new-admin/build/gulp/index.js",
+				"/E/hadlink/new-admin/build/gulp/tasks/deploy.js",
+				"/E/hadlink/new-admin/src/services/restApi.js",
+				"/E/hadlink/new-admin/package.json",
+				"/E/hadlink/vue-vuex/src/views/components-demo.vue",
+				"/E/hadlink/vue-vuex/src/components/App.vue",
+				"/E/hadlink/vue-vuex/src/components/Home.vue",
+				"/E/hadlink/vue-vuex/src/components/Navigator.vue",
+				"/E/hadlink/vue-vuex/server/middleware/static.js",
+				"/E/hadlink/new-admin/build/gulp/tasks/dev.js",
+				"/E/hadlink/new-admin/src/views/finance/withdraw-detail.vue",
+				"/E/hadlink/new-admin/src/views/stores/stores-add.vue",
+				"/E/hadlink/new-admin/src/views/stores/stores-edit.vue",
+				"/E/hadlink/new-admin/build/webpack/_base.js",
+				"/C/Users/acme/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/E/hadlink/new-admin/build/webpack/webpack-dev-server.js"
 			],
 			"find":
 			{
-				"height": 46.0
+				"height": 50.0
 			},
 			"find_in_files":
 			{
-				"height": 111.0,
+				"height": 133.0,
 				"where_history":
 				[
-					"E:\\kaibei\\maintance-user-web\\cpmponents",
-					"E:\\kaibei\\maintance-user-web",
-					"E:\\working\\trunk\\app\\CarHelperPCWeb\\PCWebpage\\hadlink91_admin\\front",
-					"E:\\kaibei\\maintance-user-web",
-					"F:\\acme",
-					"E:\\kaibei\\maintance-user-web",
-					"E:\\kaibei\\maintance-user-web\\components",
-					"E:\\kaibei\\maintance-user-web\\components\\p",
-					"E:\\mobile-startkit\\",
-					"E:\\mobile-startkit\\components\\p\\",
-					"E:\\mobile-startkit\\components\\p\\forEach",
-					"E:\\mobile-startkit\\components\\p\\p-submitOrder\\p-submitOrder.js",
-					"E:\\mobile-startkit\\components\\p\\p-chooseParts\\p-chooseParts.js",
-					"E:\\mobile-startkit\\",
-					"E:\\mobile-startkit\\node_modules\\vue-validator",
-					"E:\\mobile-startkit\\",
-					"E:\\mobile-startkit\\components\\p",
-					"",
-					"E:\\mobile-startkit\\components\\p\\p-chooseParts\\images",
-					""
+					"E:\\hadlink\\vue-vuex\\src",
+					"E:\\hadlink\\new-admin\\build,E:\\hadlink\\new-admin\\server,E:\\hadlink\\new-admin\\public",
+					"E:\\hadlink\\new-admin\\build,E:\\hadlink\\new-admin\\server",
+					"E:\\hadlink\\new-admin\\build",
+					"E:\\hadlink\\new-admin",
+					"E:\\hadlink\\new-admin\\config"
 				]
 			},
 			"find_state":
@@ -754,158 +294,130 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"setTime",
-					"alert",
-					"servicePrice.serviceid",
-					"parts",
-					"orderAmount",
-					"alert",
-					"getC",
-					"alert(0)",
-					"alert",
-					"_getParts",
-					"_getCar",
-					"_getParts",
-					"_getShop",
-					"getShop",
-					"join",
-					"服务费",
-					"service",
-					"setTime",
-					"shopServiceId",
-					"getShop",
-					"_getParts",
-					"shopServiceId",
-					"服务费",
-					"_notParts",
-					"getS",
-					"wxShare",
-					"setConfig",
-					"wxShare",
-					"setConfig",
-					"servicePrice",
-					"setConfig",
-					"onMenuShareAppMessage",
-					"onShare",
-					"s-address",
-					"shop",
-					"s-address",
-					"address",
-					"addresss",
-					"商务",
-					"时间",
-					"姓名",
-					"填写姓名",
-					"getC",
-					"orderAmount",
-					"this.orderAmount",
-					"resent",
-					"productArray",
-					"getShop",
-					"服务费",
-					"map",
-					"下一步",
-					"map",
-					"http://api.map.baidu.com/geoconv/v1/?",
-					"_getShop",
-					"getS",
-					"推荐门店",
-					"chooseShop",
-					"chooseStores",
-					"下一步",
-					"getC",
-					"下一步",
-					"getCar",
-					"下一步",
-					"next",
-					"orderStatus",
-					"noParts",
-					"productArray",
-					"partsOriginal",
-					"productArray",
-					"您已",
-					"closeNode",
-					"close",
-					"WEIXIN_TARGET_URL",
-					"use",
-					"dialog",
-					"display",
-					"dialog",
-					"dialog]",
-					"showContainer",
-					"loading",
-					"hideLoading",
-					"loading",
-					"map",
-					"this.shop",
-					"shop",
-					"lat",
-					"map",
-					"coords",
-					"date",
-					"steps.date",
-					"steps[0].date",
-					"steps",
-					"fis-conf",
-					"babel",
-					"uglify",
-					"media",
-					"vdate",
-					"ot",
-					"invalid",
-					"process_name",
-					"orderStatus",
-					"process",
-					"user-car",
-					"service-time",
-					"process",
-					"服务流程",
-					"服务",
-					"{\n",
-					"coupon",
+					"state",
+					"store",
+					"download",
+					"selectCity",
+					"set",
+					"order",
+					"nav",
+					"radius",
+					" current",
+					"wrapper",
+					"$",
+					"role",
+					"onError",
+					"_util.dom",
+					"0 , _util.dom",
+					"onselectstart",
+					"li",
+					"addCar",
+					"searchbar-wrap",
+					"carYear",
+					"nav-box",
+					"quick-cnt",
+					"font",
+					"firstul",
+					"orderDetails",
+					"other",
+					"支付",
+					"jsApiParameters",
+					"getBrandWCPayRequest",
+					"mainData",
+					"set",
+					"orderDetail",
+					"showQuick",
+					"toUpperCase",
+					"showQuick",
+					"\">\n",
+					"searchVal",
+					"placeholder",
+					"font",
+					"tapCarBrand",
+					"getCommentTagList",
+					"getCommentTagList ",
+					"quickNavBox",
+					"Infinity",
+					"$$",
+					"navtap",
+					"v-el",
+					"quicknavbox",
+					"$$",
+					"quickNavTouchStart",
+					"$els",
+					"quicknavbox",
+					"$$",
+					"v-el",
+					"el",
+					"getBoundingClientRect",
+					"navtap",
+					"quickNav",
+					"scope",
+					"quickNavTouchStart",
+					"contacts",
+					"quickNavTouchStart",
+					"touchstart",
+					"navtap",
+					"icon-contacts",
+					"quickList",
+					"_mapBrand",
+					"font",
+					"quickList",
+					"list",
+					"Contacts",
+					"callback",
+					"showQuick",
+					"dialog_wrap",
+					"tap",
+					"header",
+					"createDialog",
+					"vue",
 					"new",
-					"shangmen",
-					"_getService",
-					"shangmen",
-					"border",
-					"coupon",
-					"shangmen",
-					"BMapLib",
-					"BMapLib ",
-					".git",
-					"index.lock'",
-					"E:/kaibei/maintance-user-web/.git/index.lock'",
-					"测试环境",
-					"release",
-					"media",
-					"env",
-					"static",
-					"media",
-					"static"
+					"new vue",
+					"new",
+					"onCancel",
+					"class",
+					"createDialogVM",
+					"font",
+					"font-s",
+					"sentinel",
+					"share",
+					"clickFlag",
+					"middlewares/devtool",
+					"new Vue",
+					"new",
+					"/middlewares/devtool",
+					"getSlider",
+					"directives",
+					"router",
+					"browser",
+					"node",
+					"build",
+					"environment",
+					"3000"
 				],
-				"highlight": false,
+				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
 				"regex": false,
 				"replace_history":
 				[
-					"this"
 				],
 				"reverse": false,
-				"show_context": false,
+				"show_context": true,
 				"use_buffer2": true,
 				"whole_word": false,
-				"wrap": false
+				"wrap": true
 			},
 			"incremental_find":
 			{
-				"height": 30.0
+				"height": 36.0
 			},
 			"input":
 			{
-				"height": 38.0
+				"height": 0.0
 			},
-			"menu_visible": true,
+			"menu_visible": false,
 			"output.find_results":
 			{
 				"height": 0.0
@@ -913,7 +425,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 56.0
+				"height": 68.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -923,460 +435,44 @@
 				"selected_items":
 				[
 					[
-						"shopde",
-						"maintance-user-web2\\components\\p\\p-shopDetail\\p-shopDetail.js"
-					],
-					[
-						"choosesho",
-						"maintance-user-web2\\components\\p\\p-chooseShop\\p-chooseShop.js"
-					],
-					[
-						"choosestores",
-						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.js"
-					],
-					[
-						"submit",
-						"maintance-user-web2\\components\\p\\p-submitOrder\\p-submitOrder.js"
-					],
-					[
-						"orderd",
-						"maintance-user-web2\\components\\p\\p-orderDetail\\p-orderDetail.scss"
-					],
-					[
-						"orderdeta",
-						"maintance-user-web2\\components\\p\\p-orderDetail\\p-orderDetail.js"
-					],
-					[
-						"cooperation",
-						"maintance-user-web2\\components\\p\\p-cooperation\\p-cooperation.js"
-					],
-					[
-						"order",
-						"maintance-user-web2\\components\\p\\p-orderDetail\\p-orderDetail.scss"
-					],
-					[
-						"home",
-						"maintance-user-web2\\components\\p\\p-home\\p-home.js"
-					],
-					[
-						"chooseparts",
-						"maintance-user-web2\\components\\p\\p-chooseParts\\p-chooseParts.js"
-					],
-					[
-						"orderde",
-						"maintance-user-web2\\components\\p\\p-orderDetail\\p-orderDetail.js"
-					],
-					[
-						"chooses",
-						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.tpl"
-					],
-					[
-						"choosesto",
-						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.tpl"
-					],
-					[
-						"shopd",
-						"maintance-user-web2\\components\\p\\p-shopDetail\\p-shopDetail.js"
-					],
-					[
-						"myorder",
-						"maintance-user-web2\\components\\p\\p-myOrder\\p-myOrder.tpl"
-					],
-					[
-						"choosestores/",
-						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.js"
-					],
-					[
-						"submitorder",
-						"maintance-user-web2\\components\\p\\p-submitOrder2\\p-submitOrder2.js"
-					],
-					[
-						"chooseparets",
-						"maintance-user-web2\\components\\p\\p-chooseParts\\p-chooseParts.js"
-					],
-					[
-						"choosecoupon",
-						"maintance-user-web2\\components\\p\\p-chooseCoupon\\p-chooseCoupon.tpl"
-					],
-					[
-						"choosecou",
-						"maintance-user-web2\\components\\p\\p-chooseCoupon\\p-chooseCoupon.js"
-					],
-					[
-						"c-select",
-						"maintance-user-web2\\components\\c\\c-selector\\c-selector.tpl"
-					],
-					[
-						"choosest",
-						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.js"
-					],
-					[
-						"mycou",
-						"maintance-user-web2\\components\\p\\p-myCoupon\\p-myCoupon.js"
-					],
-					[
-						"payment",
-						"maintance-user-web2\\components\\p\\p-payment\\p-payment.js"
-					],
-					[
-						"ordrd",
-						"maintance-user-web2\\components\\p\\p-orderDetail\\p-orderDetail.js"
-					],
-					[
-						"map.ht",
-						"maintance-user-web2\\.dist\\static\\map\\map.html"
-					],
-					[
-						"c-coupo",
-						"maintance-user-web2\\components\\c\\c-coupon\\c-coupon.scss"
-					],
-					[
-						"c-coupon",
-						"maintance-user-web2\\components\\c\\c-coupon\\c-coupon.tpl"
-					],
-					[
-						"choosestore",
-						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.scss"
-					],
-					[
-						"choosestoer",
-						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.js"
-					],
-					[
-						"addser",
-						"maintance-user-web2\\components\\p\\p-addService2\\p-addService2.js"
-					],
-					[
-						"myc",
-						"maintance-user-web\\components\\p\\p-myCoupon\\p-myCoupon.tpl"
-					],
-					[
-						"mycoup",
-						"maintance-user-web\\components\\p\\p-myCoupon\\p-myCoupon.js"
-					],
-					[
-						"mymess",
-						"maintance-user-web\\components\\p\\p-myMessage\\p-myMessage.js"
-					],
-					[
-						"deta",
-						"maintance-user-web\\components\\p\\p-detail\\p-detail.js"
-					],
-					[
-						"demo",
-						"maintance-user-web\\client\\font\\kaibei\\demo.js"
-					],
-					[
-						"bindphone",
-						"maintance-user-web\\components\\p\\p-bindPhone\\p-bindPhone.js"
-					],
-					[
-						"choosebrand",
-						"maintance-user-web\\components\\p\\p-chooseBrand\\p-chooseBrand.tpl"
-					],
-					[
-						"chooseproduct",
-						"maintance-user-web\\components\\p\\p-chooseProduct2\\p-chooseProduct2.js"
-					],
-					[
-						"about",
-						"maintance-user-web\\components\\p\\p-about\\p-about.tpl"
-					],
-					[
-						"chooseshop",
-						"maintance-user-web\\components\\p\\p-chooseShop\\p-chooseShop.js"
-					],
-					[
-						"addsre",
-						"maintance-user-web\\components\\p\\p-addService2\\p-addService2.js"
-					],
-					[
-						"choose",
-						"maintance-user-web\\components\\p\\p-chooseStores\\p-chooseStores.tpl"
-					],
-					[
-						"choosetime",
-						"maintance-user-web\\components\\p\\p-chooseTime\\p-chooseTime.js"
-					],
-					[
-						"choosepr",
-						"maintance-user-web\\components\\p\\p-chooseProduct2\\p-chooseProduct2.tpl"
-					],
-					[
-						"choosepro",
-						"maintance-user-web\\components\\p\\p-chooseProduct2\\p-chooseProduct2.js"
-					],
-					[
-						"mycoupon",
-						"maintance-user-web\\components\\p\\p-myCoupon\\p-myCoupon.js"
-					],
-					[
-						"orderphone",
-						"maintance-user-web\\components\\p\\p-orderPhone\\p-orderPhone.js"
-					],
-					[
-						"choosec",
-						"maintance-user-web\\components\\p\\p-chooseCar\\p-chooseCar.js"
-					],
-					[
-						"choosecpu",
-						"maintance-user-web\\components\\p\\p-chooseCoupon\\p-chooseCoupon.js"
-					],
-					[
-						"shopc",
-						"maintance-user-web\\components\\p\\p-shopComment\\p-shopComment.js"
-					],
-					[
-						"choosecoup",
-						"maintance-user-web\\components\\p\\p-chooseCoupon\\p-chooseCoupon.js"
-					],
-					[
-						"chooseb",
-						"maintance-user-web\\components\\p\\p-chooseBrand\\p-chooseBrand.js"
-					],
-					[
-						"shopdeta",
-						"maintance-user-web\\components\\p\\p-shopDetail\\p-shopDetail.tpl"
-					],
-					[
-						"add",
-						"maintance-user-web\\components\\p\\p-addService\\p-addService.js"
-					],
-					[
-						"choosepa",
-						"maintance-user-web\\components\\p\\p-chooseParts\\p-chooseParts.js"
-					],
-					[
-						"rot",
-						"maintance-user-web\\node_modules\\vue-touch\\node_modules\\hammerjs\\src\\recognizers\\rotate.js"
-					],
-					[
-						"p-map",
-						"maintance-user-web\\components\\p\\p-map\\p-map.js"
-					],
-					[
-						"myor",
-						"maintance-user-web\\components\\p\\p-myOrder\\p-myOrder.tpl"
-					],
-					[
-						"date",
-						"maintance-user-web\\node_modules\\swig\\lib\\dateformatter.js"
-					],
-					[
-						"choosepart",
-						"maintance-user-web\\components\\p\\p-chooseParts\\p-chooseParts.tpl"
-					],
-					[
-						"p-about",
-						"maintance-user-web\\components\\p\\p-about\\p-about.tpl"
-					],
-					[
-						"about.",
-						"maintance-user-web\\components\\p\\p-about\\p-about.js"
-					],
-					[
-						"choosestor",
-						"maintance-user-web\\components\\p\\p-chooseStores\\p-chooseStores.js"
-					],
-					[
-						"choosecar",
-						"maintance-user-web\\components\\p\\p-chooseCar\\p-chooseCar.js"
-					],
-					[
-						"refund",
-						"maintance-user-web\\components\\p\\p-refund\\p-refund.tpl"
-					],
-					[
-						"myordr",
-						"maintance-user-web\\components\\p\\p-myOrder\\p-myOrder.tpl"
-					],
-					[
-						"chooseproduc",
-						"maintance-user-web\\components\\p\\p-chooseProduct2\\p-chooseProduct2.tpl"
-					],
-					[
-						"pay",
-						"maintance-user-web\\components\\p\\p-payment\\p-payment.js"
-					],
-					[
-						"choosep",
-						"maintance-user-web\\components\\p\\p-chooseParts\\p-chooseParts.js"
-					],
-					[
-						"adds",
-						"maintance-user-web\\components\\p\\p-addService\\p-addService.js"
-					],
-					[
-						"loading",
-						"maintance-user-web\\components\\c\\c-loading\\c-loading.scss"
-					],
-					[
-						"mycoun",
-						"maintance-user-web\\components\\p\\p-myCoupon\\p-myCoupon.js"
-					],
-					[
-						"mycar",
-						"maintance-user-web\\components\\p\\p-myCar\\p-myCar.js"
-					],
-					[
-						"myme",
-						"maintance-user-web\\components\\p\\p-myMessage\\p-myMessage.tpl"
-					],
-					[
-						"router",
-						"maintance-user-web\\server\\middleware\\router.js"
-					],
-					[
-						"bindp",
-						"maintance-user-web\\components\\p\\p-bindPhone\\p-bindPhone.js"
-					],
-					[
-						"c-load",
-						"maintance-user-web\\components\\c\\c-loading\\c-loading.tpl"
-					],
-					[
-						"payme",
-						"components\\p\\p-payment\\p-payment.js"
-					],
-					[
-						"submitor",
-						"components\\p\\p-submitOrder\\p-submitOrder.scss"
-					],
-					[
-						"orderpho",
-						"components\\p\\p-orderPhone\\p-orderPhone.js"
-					],
-					[
-						"api",
-						"components\\boot\\restApi.js"
-					],
-					[
-						"chooseca",
-						"components\\p\\p-chooseCar\\p-chooseCar.scss"
-					],
-					[
-						"comment",
-						"components\\p\\p-comment\\p-comment.js"
-					],
-					[
-						"commen",
-						"components\\p\\p-comment\\p-comment.js"
-					],
-					[
-						"myo",
-						"components\\p\\p-myOrder\\p-myOrder.js"
-					],
-					[
-						"bindphoe",
-						"components\\p\\p-bindPhone\\p-bindPhone.js"
-					],
-					[
-						"shop",
-						"components\\p\\p-shopComment\\p-shopComment.tpl"
-					],
-					[
-						"chopdeta",
-						"components\\p\\p-shopDetail\\p-shopDetail.js"
-					],
-					[
-						"checkre",
-						"components\\p\\p-checkReport\\p-checkReport.js"
-					],
-					[
-						"ordrde",
-						"components\\p\\p-orderDetail\\p-orderDetail.js"
-					],
-					[
-						"coupo",
-						".dist\\public\\c\\3.0.0\\c\\c-coupon\\c-coupon.js"
-					],
-					[
-						"c-star",
-						"components\\c\\c-star\\c-star.js"
-					],
-					[
-						"orderdea",
-						"components\\p\\p-orderDetail\\p-orderDetail.tpl"
-					],
-					[
-						"chooset",
-						"components\\p\\p-chooseTime\\p-chooseTime.js"
+						"car",
+						"src\\views\\CarBrand.vue"
 					],
 					[
 						"dialog",
-						"components\\c\\c-dialog\\c-dialog.js"
+						"src\\components\\Dialog.vue"
 					],
 					[
-						"choosepar",
-						"components\\p\\p-chooseParts\\p-chooseParts.js"
+						"carbr",
+						"src\\views\\CarBrand.vue"
 					],
 					[
-						"check",
-						"components\\p\\p-checkReport\\p-checkReport.js"
+						"order",
+						"src\\views\\OrderDetail.vue"
 					],
 					[
-						"checkr",
-						"components\\p\\p-checkReport\\p-checkReport.tpl"
+						"muta",
+						"vue-vuex\\src\\store\\mutations.js"
 					],
 					[
-						"checkd",
-						"components\\p\\p-checkDetail\\p-checkDetail.scss"
+						"car-logo",
+						"new-admin\\src\\views\\data\\car-logo.vue"
 					],
 					[
-						"report",
-						"components\\p\\p-checkReport\\p-checkReport.tpl"
+						"tips",
+						"vue-vuex\\src\\components\\Tips.vue"
 					],
 					[
-						"refun",
-						"components\\p\\p-refund\\p-refund.tpl"
+						"storesedit",
+						"src\\views\\stores\\stores-edit.vue"
 					],
 					[
-						"rest",
-						"maintance-user-web\\components\\boot\\restApi.js"
+						"storesadd",
+						"src\\views\\stores\\stores-add.vue"
 					],
 					[
-						"rou",
-						"mobile-startkit\\components\\boot\\routes.js"
-					],
-					[
-						"route",
-						"mobile-startkit\\components\\boot\\routes.js"
-					],
-					[
-						"datepic/",
-						"mobile-startkit\\components\\c\\c-datepicker\\c-datepicker.js"
-					],
-					[
-						"res",
-						"mobile-startkit\\components\\boot\\restApi.js"
-					],
-					[
-						"datepick",
-						"mobile-startkit\\components\\c\\c-datepicker\\c-datepicker.tpl"
-					],
-					[
-						"city",
-						"mobile-startkit\\components\\c\\c-city\\c-city.js"
-					],
-					[
-						"routes",
-						"mobile-startkit\\components\\boot\\routes.js"
-					],
-					[
-						"home.sc",
-						"mobile-startkit\\components\\p\\p-home\\p-home.scss"
-					],
-					[
-						"c-dialog",
-						"mobile-startkit\\components\\c\\c-dialog\\c-dialog.js"
-					],
-					[
-						"p-choose",
-						"components\\p\\p-chooseParts\\p-chooseParts.tpl"
-					],
-					[
-						"p-choosep",
-						"components\\p\\p-chooseParts\\p-chooseParts.js"
+						"api",
+						"src\\services\\restApi.js"
 					]
 				],
 				"width": 0.0
@@ -1400,16 +496,16 @@
 				"width": 0.0
 			},
 			"show_minimap": true,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 251.0,
+			"side_bar_width": 140.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1340.0
+		"new_window_width": 640.0
 	},
 	"windows":
 	[
@@ -1419,521 +515,385 @@
 				"selected_items":
 				[
 					[
-						"re",
-						"return"
-					],
-					[
-						"Ser",
-						"serviceid"
-					],
-					[
-						"ser",
-						"serviceId"
-					],
-					[
-						"mar",
-						"margin-top"
-					],
-					[
-						"service",
-						"servicePrice"
-					],
-					[
-						"chooseS",
-						"chooseShopId"
-					],
-					[
-						"shop",
-						"shopId"
-					],
-					[
-						"sho",
-						"shopId"
-					],
-					[
-						"coupo",
-						"couponAmount"
-					],
-					[
-						"text",
-						"text-indent"
-					],
-					[
-						"wid",
-						"width"
+						"choose",
+						"chooseService"
 					],
 					[
 						"pro",
-						"productArray"
+						"profile"
 					],
 					[
-						"scr",
-						"scrollTop"
+						"loca",
+						"location"
 					],
 					[
-						"sc",
-						"scrollT"
-					],
-					[
-						"border",
-						"border"
-					],
-					[
-						"res",
-						"result"
-					],
-					[
-						"process",
-						"process_name"
-					],
-					[
-						"pos",
-						"position"
-					],
-					[
-						"padd",
-						"padding"
-					],
-					[
-						"let",
-						"left"
-					],
-					[
-						"po",
-						"position"
-					],
-					[
-						"par",
-						"parts"
-					],
-					[
-						"op",
-						"openid"
-					],
-					[
-						"open",
-						"openid"
-					],
-					[
-						"pC",
-						"pCode"
-					],
-					[
-						"pCode",
-						"pCodeNode"
-					],
-					[
-						"te",
-						"text-align"
-					],
-					[
-						"back",
-						"background"
-					],
-					[
-						"prod",
-						"productId"
-					],
-					[
-						"item",
-						"itemNode"
-					],
-					[
-						"choose",
-						"chooseCoupon"
-					],
-					[
-						"se",
-						"selected"
-					],
-					[
-						"coupn",
-						"coupon"
-					],
-					[
-						"cou",
-						"couponAmount"
-					],
-					[
-						"serve",
-						"servicePrice"
-					],
-					[
-						"dis",
-						"discountTotal"
-					],
-					[
-						"select",
-						"selectCoupon"
-					],
-					[
-						"add",
-						"address"
-					],
-					[
-						"cont",
-						"content"
-					],
-					[
-						"so",
-						"shop_longitude"
-					],
-					[
-						"la",
-						"shop_latitude"
-					],
-					[
-						"inser",
-						"insertScript"
-					],
-					[
-						"servie",
-						"ddService"
-					],
-					[
-						"coo",
-						"coord_type"
-					],
-					[
-						"sub",
-						"submitOrder"
-					],
-					[
-						"stor",
-						"sessionStorage"
-					],
-					[
-						"w",
-						"warn"
-					],
-					[
-						"wx",
-						"wxTimeout"
-					],
-					[
-						"my",
-						"p-myMessage"
-					],
-					[
-						"b",
-						"both"
-					],
-					[
-						"time",
-						"time1"
-					],
-					[
-						"st",
-						"stepLen"
-					],
-					[
-						"margin",
-						"margin-right"
-					],
-					[
-						"con",
-						"content"
-					],
-					[
-						"curr",
-						"currentSelectDay"
-					],
-					[
-						"date",
-						"dateArr"
-					],
-					[
-						"for",
-						"forEach"
-					],
-					[
-						"sum",
-						"submitOrder2"
-					],
-					[
-						"check",
-						"checkStatus"
-					],
-					[
-						"border-co",
-						"border-color"
-					],
-					[
-						"str",
-						"stringify"
-					],
-					[
-						"_ge",
-						"_getParts"
-					],
-					[
-						"firs",
-						"first-child"
-					],
-					[
-						"dd",
-						"ddService"
-					],
-					[
-						"submitOrder",
-						"p-submitOrder2"
-					],
-					[
-						"ss",
-						"sessionStorage"
-					],
-					[
-						"p",
-						"parts"
-					],
-					[
-						"o",
-						"original"
-					],
-					[
-						"pr",
-						"productName"
-					],
-					[
-						"d",
-						"discountTotal"
-					],
-					[
-						"produ",
-						"productName"
-					],
-					[
-						"get",
-						"_getParts"
-					],
-					[
-						"城市",
-						"城市对应id"
-					],
-					[
-						"city",
-						"cityId"
-					],
-					[
-						"r",
-						"relative"
-					],
-					[
-						"pay",
-						"payment"
-					],
-					[
-						"to",
-						"toFixed"
-					],
-					[
-						"call",
-						"callback"
+						"lo",
+						"location"
 					],
 					[
 						"json",
 						"jsonp"
 					],
 					[
-						"mo",
-						"methods"
+						"padd",
+						"padding-left"
 					],
 					[
-						"sty",
-						"style"
-					],
-					[
-						"boder",
-						"border-radius"
-					],
-					[
-						"max",
-						"max-width"
-					],
-					[
-						"pad",
-						"padding"
-					],
-					[
-						"s",
-						"solid"
-					],
-					[
-						"min",
-						"min-height"
-					],
-					[
-						"set",
-						"setTimeout"
-					],
-					[
-						"pa",
-						"padding-top"
-					],
-					[
-						"marg",
-						"margin-top"
-					],
-					[
-						"bordr",
-						"border-box"
-					],
-					[
-						"bor",
-						"border-bottom"
-					],
-					[
-						"ma",
+						"mar",
 						"margin"
 					],
 					[
-						"head",
-						"header	Tag"
+						"process",
+						"processName"
 					],
 					[
-						"im",
-						"important"
+						"status",
+						"statusCfg"
 					],
 					[
-						"show",
-						"showSort"
+						"get",
+						"getLocation"
 					],
 					[
-						"skin-",
-						"skin-a"
+						"service",
+						"serviceName"
 					],
 					[
-						"tex",
-						"text-align"
+						"border",
+						"border"
 					],
 					[
-						"coup",
-						"couponNum"
-					],
-					[
-						"num",
-						"couponNum"
-					],
-					[
-						"rgb",
-						"rgb()"
+						"to",
+						"totalPay"
 					],
 					[
 						"order",
-						"orderId"
+						"orderDetailsProduct"
 					],
 					[
-						"bac",
-						"background"
+						"r",
+						"return"
 					],
 					[
-						"di",
-						"disabled	Attr"
+						"ri",
+						"right"
 					],
 					[
-						"fun",
-						"function"
+						"S",
+						"Switch"
 					],
 					[
-						"wa",
-						"waiting"
+						"pay",
+						"payTotalPrice"
 					],
 					[
-						"address",
-						"addressData"
+						"parts",
+						"partsPrice"
 					],
 					[
-						"border-ra",
-						"border-radius"
+						"over",
+						"overAmount"
 					],
 					[
-						"font",
-						"font-size"
+						"typ",
+						"typeCfg"
 					],
 					[
-						"coupon",
-						"coupon_id"
+						"servi",
+						"service"
 					],
 					[
-						"produc",
-						"product"
+						"la",
+						"last-child"
 					],
 					[
-						"parse",
-						"parseInt"
+						"inlin",
+						"inline-block"
 					],
 					[
-						"product",
-						"productType"
+						"text",
+						"text-align"
 					],
 					[
-						"de",
-						"defaultCoupon"
+						"par",
+						"partsList"
 					],
 					[
-						"cu",
-						"couponNum"
+						"pos",
+						"position"
 					],
 					[
-						"ty",
-						"tyCoupon"
-					],
-					[
-						"type",
-						"typeName"
+						"ser",
+						"serviceList"
 					],
 					[
 						"sele",
-						"select"
-					],
-					[
-						"ons",
-						"onselect"
-					],
-					[
-						"selec",
 						"selected"
 					],
 					[
-						"provi",
-						"sProvince"
-					],
-					[
-						"offset",
-						"offsetTop"
-					],
-					[
-						"elem",
-						"elemTop"
+						"v",
+						"visibility"
 					],
 					[
 						"border-",
 						"border-bottom"
 					],
 					[
-						"al",
-						"alt	Attr"
+						"n",
+						"normal"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"syt",
+						"styles"
 					],
 					[
 						"z",
 						"z-index"
 					],
 					[
-						"z-",
-						"z-index"
+						"bor",
+						"border"
 					],
 					[
-						"line",
-						"line-height"
+						"tex",
+						"text-align"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"sL",
+						"Slider"
+					],
+					[
+						"car",
+						"carModel"
 					],
 					[
 						"cl",
 						"clear"
+					],
+					[
+						"mi",
+						"middle"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"main",
+						"mainData"
+					],
+					[
+						"hot",
+						"hotData"
+					],
+					[
+						"de",
+						"default"
+					],
+					[
+						"crea",
+						"createDialog"
+					],
+					[
+						"tit",
+						"title"
+					],
+					[
+						"mo",
+						"modalClass"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"in",
+						"include"
+					],
+					[
+						"font",
+						"font-size"
 					]
 				]
 			},
 			"buffers":
 			[
+				{
+					"file": "/E/hadlink/vue-vuex/src/views/Home.vue",
+					"settings":
+					{
+						"buffer_size": 5408,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/hadlink/vue-vuex/src/views/CarModel.vue",
+					"settings":
+					{
+						"buffer_size": 1074,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/hadlink/vue-vuex/src/views/CarYear.vue",
+					"settings":
+					{
+						"buffer_size": 1272,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/hadlink/vue-vuex/src/views/OrderDetail.vue",
+					"settings":
+					{
+						"buffer_size": 4342,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/hadlink/vue-vuex/src/views/MyOrder.vue",
+					"settings":
+					{
+						"buffer_size": 4319,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/acme/Desktop/Contacts.vue",
+					"settings":
+					{
+						"buffer_size": 6862,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/hadlink/vue-vuex/src/index.html",
+					"settings":
+					{
+						"buffer_size": 592,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/hadlink/vue-vuex/server/index.js",
+					"settings":
+					{
+						"buffer_size": 2696,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/hadlink/vue-vuex/src/views/Activities.vue",
+					"settings":
+					{
+						"buffer_size": 4136,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/hadlink/vue-vuex/src/views/ServiceParts.vue",
+					"settings":
+					{
+						"buffer_size": 6785,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/hadlink/vue-vuex/src/components/Pay.vue",
+					"settings":
+					{
+						"buffer_size": 1872,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/hadlink/kaibei-weixin-3.0/components/p/p-payment/p-payment.js",
+					"settings":
+					{
+						"buffer_size": 3745,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/hadlink/kaibei-weixin-3.0/components/p/p-payment/p-payment.scss",
+					"settings":
+					{
+						"buffer_size": 515,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/hadlink/kaibei-weixin-3.0/components/p/p-payment/p-payment.tpl",
+					"settings":
+					{
+						"buffer_size": 316,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/hadlink/vue-vuex/src/store/states.js",
+					"settings":
+					{
+						"buffer_size": 2447,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/hadlink/vue-vuex/src/store/mutations.js",
+					"settings":
+					{
+						"buffer_size": 14171,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/hadlink/vue-vuex/src/store/actions.js",
+					"settings":
+					{
+						"buffer_size": 7881,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/hadlink/vue-vuex/src/store/types.js",
+					"settings":
+					{
+						"buffer_size": 2290,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/hadlink/vue-vuex/src/api/index.js",
+					"settings":
+					{
+						"buffer_size": 3171,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/hadlink/vue-vuex/src/store/middlewares.js",
+					"settings":
+					{
+						"buffer_size": 550,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/hadlink/vue-vuex/config/development.json",
+					"settings":
+					{
+						"buffer_size": 179,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -1943,34 +903,21 @@
 			"command_palette":
 			{
 				"height": 480.0,
-				"last_filter": "pack",
+				"last_filter": "Package Control: ",
 				"selected_items":
 				[
 					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
 						"Package Control: ",
 						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"emmet",
-						"Toggle Comment"
 					]
 				],
-				"width": 589.0
+				"width": 649.0
 			},
 			"console":
 			{
-				"height": 162.0,
+				"height": 0.0,
 				"history":
 				[
-					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -1984,169 +931,157 @@
 			},
 			"expanded_folders":
 			[
+				"/E/hadlink/kaibei-weixin-3.0"
 			],
 			"file_history":
 			[
-				"/E/kaibei/maintance-user-web2/components/p/p-submitOrder/p-submitOrder.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-home/p-home.tpl",
-				"/E/kaibei/maintance-user-web2/components/p/p-chooseStores/p-chooseStores.tpl",
-				"/E/kaibei/maintance-user-web2/components/p/p-chooseStores/p-chooseStores.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-submitOrder2/p-submitOrder2.js",
-				"/E/kaibei/new-admin/server/middleware/csrf.js",
-				"/E/kaibei/new-admin/server/middleware/error.js",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-myOrder/p-myOrder.tpl",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-orderDetail/p-orderDetail.tpl",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-inputReport/p-inputReport.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-inputReport/p-inputReport.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-myOrder/p-myOrder.tpl",
-				"/E/kaibei/maintance-user-web2/package.json",
-				"/F/sd/test/a.js",
-				"/E/kaibei/maintance-user-web2/build/webpack/webpack.config.js",
-				"/E/kaibei/maintance-user-web2/components/boot/restApi.js",
-				"/F/sd/package.json",
-				"/E/kaibei/maintance-user-web2/components/p/p-orderDetail/p-orderDetail.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-orderDetail/p-orderDetail.tpl",
-				"/E/kaibei/maintance-user-web2/client/static/coupon-chongqing/style.css",
-				"/E/kaibei/maintance-user-web2/client/static/coupon-cheyouhui/index.html",
-				"/E/kaibei/maintance-user-web2/components/p/p-confirmCar/p-confirmCar.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-chooseParts/p-chooseParts.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-shopDetail/p-shopDetail.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-chooseShop/p-chooseShop.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-chooseCar/p-chooseCar.js",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-submitOrder2/p-submitOrder2.js",
-				"/E/kaibei/maintance-user-web2/build/gulp/tasks/deploy.js",
-				"/E/kaibei/maintance-user-web2/build/gulp/tasks/deploy/ssh_rollback.js",
-				"/E/kaibei/maintance-user-web2/build/gulp/tasks/deploy/ssh_deploy.js",
-				"/E/kaibei/maintance-user-web2/build/gulp/tasks/csscomb.js",
-				"/E/kaibei/maintance-user-web2/build/gulp/tasks/preinstall.js",
-				"/E/kaibei/maintance-user-web2/build/gulp/tasks/dev.js",
-				"/E/kaibei/maintance-user-web2/config/config.json",
-				"/E/kaibei/maintance-user-web2/config/index.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-useRule/p-useRule.js",
-				"/E/kaibei/maintance-user-web2/server/middleware/static.js",
-				"/E/kaibei/maintance-user-web2/fis-conf.js",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-chooseParts/p-chooseParts.js",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-chooseParts/p-chooseParts.css",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/E/kaibei/maintance-user-web2/components/p/p-useRule/p-useRule.tpl",
-				"/C/Users/Administrator/Desktop/video.js",
-				"/E/kaibei/maintance-user-web2/components/c/c-coupon/c-coupon.tpl",
-				"/E/kaibei/maintance-user-web2/components/c/wx/share.js",
-				"/E/kaibei/maintance-user-web2/client/static/coupon-chongqing/index.js",
-				"/E/kaibei/maintance-user-web2/components/c/c-coupon/c-coupon.js",
-				"/E/kaibei/maintance-user-web2/client/static/coupon/index.js",
-				"/C/Users/Administrator/Desktop/p-orderDetail/p-orderDetail.js",
-				"/E/kaibei/maintance-user-web2/components/boot/routes.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-cooperation/p-cooperation.tpl",
-				"/E/kaibei/maintance-user-web2/components/p/p-orderDetail/p-orderDetail.scss",
-				"/E/kaibei/maintance-user-web2/components/p/p-cooperation/p-cooperation.js",
-				"/C/Users/Administrator/Desktop/p-orderDetail/p-orderDetail.scss",
-				"/C/Users/Administrator/Desktop/p-orderDetail/p-orderDetail.tpl",
-				"/E/kaibei/maintance-user-web2/components/p/p-home/p-home.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-myOrder/p-myOrder.js",
-				"/E/kaibei/maintance-user-web2/client/static/coupon-kongtiao/index.js",
-				"/E/kaibei/maintance-user-web2/client/static/coupon-kongtiao/style.css",
-				"/E/kaibei/maintance-user-web2/client/static/coupon-kongtiao/index.html",
-				"/E/kaibei/maintance-user-web2/client/static/coupon-chongqing/index.html",
-				"/E/kaibei/maintance-user-web2/components/p/p-chooseCoupon/p-chooseCoupon.tpl",
-				"/E/kaibei/maintance-user-web2/components/p/p-chooseCoupon/p-chooseCoupon.js",
-				"/E/kaibei/maintance-user-web2/docs/运行项目.md",
-				"/E/kaibei/maintance-user-web2/components/c/c-selector/c-selector.tpl",
-				"/E/kaibei/maintance-user-web2/components/p/p-payment/p-payment.js",
-				"/E/kaibei/maintance-user-web2/client/static/map/map.html",
-				"/E/kaibei/maintance-user-web2/components/p/p-myCoupon/p-myCoupon.js",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-addService2/p-addService2.tpl",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-addService2/p-addService2.js",
-				"/E/kaibei/maintance-user-web2/.dist/static/map/map.html",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-addService/p-addService.js",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-about/p-about.js",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/vue.js",
-				"/E/kaibei/maintance-user-web2/components/c/c-coupon/c-coupon.scss",
-				"/E/kaibei/maintance-user-web2/components/p/p-myCoupon/p-myCoupon.scss",
-				"/E/kaibei/maintance-user-web2/.dist/public/c/3.0.0/p/p-orderDetail/p-orderDetail.css",
-				"/E/kaibei/maintance-user-web2/components/p/p-addService2/p-addService2.js",
-				"/E/kaibei/maintance-user-web2/components/p/p-home/p-home.scss",
-				"/E/kaibei/maintance-user-web2/components/p/p-myCoupon/p-myCoupon.tpl",
-				"/E/kaibei/maintance-user-web2/components/p/p-chooseStores/p-chooseStores.scss",
-				"/E/kaibei/maintance-user-web2/components/p/p-chooseSeries/p-chooseSeries.scss",
-				"/E/kaibei/maintance-user-web/client/static/map/map.html",
-				"/E/kaibei/maintance-user-web/client/static/coupon-chongqing/index.html",
-				"/E/kaibei/maintance-user-web/client/static/coupon-chongqing/style.css",
-				"/E/kaibei/maintance-user-web/fis-conf.js",
-				"/E/kaibei/maintance-user-web/components/p/p-orderDetail/p-orderDetail.js",
-				"/E/kaibei/maintance-user-web/.dist/public/c/3.0.0/p/p-addService2/p-addService2.tpl",
-				"/E/kaibei/maintance-user-web/.dist/public/c/vue.js",
-				"/E/kaibei/maintance-user-web/.dist/public/3.0.0/css/global.css",
-				"/E/kaibei/maintance-user-web/config/production.json",
-				"/E/kaibei/maintance-user-web/config/test.json",
-				"/E/kaibei/maintance-user-web/config/development.json",
-				"/E/kaibei/maintance-user-web/config/config.json",
-				"/E/kaibei/maintance-user-web/.dist/static/coupon-chongqing/index.html",
-				"/E/kaibei/maintance-user-web/.dist/static/coupon-chongqing/core.js",
-				"/E/kaibei/maintance-user-web/node_modules/vue-validator/components/yyx990803-vue@dev/src/api/global.js",
-				"/E/kaibei/maintance-user-web/client/css/global.scss",
-				"/E/kaibei/maintance-user-web/package.json",
-				"/E/kaibei/maintance-user-web/components/p/p-myCoupon/p-myCoupon.js",
-				"/E/kaibei/maintance-user-web/components/p/p-myCoupon/p-myCoupon.tpl",
-				"/E/kaibei/maintance-user-web/components/c/c-coupon/c-coupon.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseParts/p-chooseParts.js",
-				"/E/kaibei/maintance-user-web/components/p/p-bindPhone/p-bindPhone.js",
-				"/E/kaibei/maintance-user-web/.dist/public/c/3.0.0/p/p-myCoupon/p-myCoupon.js",
-				"/E/kaibei/maintance-user-web/components/boot/routes.js",
-				"/E/kaibei/maintance-user-web/components/p/p-myMessage/p-myMessage.js",
-				"/E/kaibei/maintance-user-web/components/p/p-detail/p-detail.js",
-				"/E/kaibei/maintance-user-web/client/font/kaibei/demo.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseStores/p-chooseStores.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseProduct2/p-chooseProduct2.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseBrand/p-chooseBrand.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseSeries/p-chooseSeries.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseBrand/p-chooseBrand.tpl",
-				"/E/kaibei/maintance-user-web/components/p/p-addService2/p-addService2.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseShop/p-chooseShop.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseStores/p-chooseStores.tpl",
-				"/E/kaibei/maintance-user-web/.dist/static/coupon-chongqing/index.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseProduct/p-chooseProduct.js",
-				"/E/kaibei/maintance-user-web/components/p/p-about/p-about.tpl",
-				"/E/kaibei/maintance-user-web/components/p/p-myOrder/p-myOrder.js",
-				"/E/kaibei/maintance-user-web/components/p/p-orderDetail/p-orderDetail.tpl",
-				"/E/kaibei/maintance-user-web/components/p/p-myOrder/p-myOrder.tpl",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseTime/p-chooseTime.js",
-				"/E/kaibei/maintance-user-web/components/p/p-submitOrder/p-submitOrder.js",
-				"/E/kaibei/maintance-user-web/components/p/p-chooseProduct2/p-chooseProduct2.tpl",
-				"/E/kaibei/maintance-user-web/.dist/public/c/3.0.0/p/p-chooseStores/p-chooseStores.js",
-				"/E/kaibei/maintance-user-web/components/p/p-addService/p-addService.js"
+				"/E/hadlink/vue-vuex/src/views/SubmitOrder.vue",
+				"/E/hadlink/vue-vuex/src/route/index.js",
+				"/E/hadlink/vue-vuex/node_modules/http-proxy/lib/http-proxy/index.js",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/wx/jweixin.js",
+				"/E/hadlink/vue-vuex/server/middleware/proxy.js",
+				"/E/hadlink/vue-vuex/node_modules/http-proxy/lib/http-proxy/common.js",
+				"/E/hadlink/vue-vuex/node_modules/http-proxy/lib/http-proxy/passes/web-outgoing.js",
+				"/E/hadlink/vue-vuex/node_modules/http-proxy/index.js",
+				"/E/hadlink/vue-vuex/node_modules/http-proxy/lib/http-proxy.js",
+				"/E/hadlink/vue-vuex/src/util/lang.js",
+				"/E/hadlink/vue-vuex/src/util/index.js",
+				"/E/hadlink/vue-vuex/server/middleware/router.js",
+				"/E/hadlink/vue-vuex/src/views/CarBrand.vue",
+				"/E/hadlink/vue-vuex/src/views/ChooseService.vue",
+				"/E/hadlink/vue-vuex/src/index.js",
+				"/E/hadlink/vue-vuex/src/views/Login.vue",
+				"/E/hadlink/vue-vuex/src/components/Location.vue",
+				"/E/hadlink/vue-vuex/src/views/Demo.vue",
+				"/E/hadlink/kaibei-weixin-3.0/components/boot/routes.js",
+				"/E/hadlink/vue-vuex/config/index.js",
+				"/E/hadlink/vue-vuex/package.json",
+				"/E/hadlink/new-admin/src/routes/index.js",
+				"/E/hadlink/vue-vuex/build/webpack/_base.js",
+				"/E/hadlink/vue-vuex/build/webpack/_development.js",
+				"/E/hadlink/vue-vuex/server/index.js",
+				"/E/hadlink/vue-vuex/config/development.json",
+				"/E/hadlink/vue-vuex/src/views/ChooseCity.vue",
+				"/E/hadlink/vue-vuex/.dist/public/index.html",
+				"/E/hadlink/vue-vuex/.dist/public/app.js",
+				"/E/hadlink/vue-vuex/build/webpack/devServer.js",
+				"/E/hadlink/vue-vuex/src/index.html",
+				"/E/hadlink/vue-vuex/build/gulp/index.js",
+				"/E/hadlink/vue-vuex/config/production.json",
+				"/E/hadlink/vue-vuex/src/styles/css/_variable.scss",
+				"/E/hadlink/vue-vuex/src/views/MyOrder.vue",
+				"/E/hadlink/vue-vuex/src/components/Pay.vue",
+				"/E/hadlink/vue-vuex/src/views/OrderDetail.vue",
+				"/E/hadlink/kaibei-weixin-3.0/server/index.js",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-home/p-home.js",
+				"/E/hadlink/vue-vuex/src/components/Switch.vue",
+				"/E/hadlink/vue-vuex/src/views/ServiceParts.vue",
+				"/E/hadlink/vue-vuex/src/components/Slider.vue",
+				"/E/hadlink/vue-vuex/src/constants/OrderStatus.js",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-customerService/p-customerService.js",
+				"/E/hadlink/vue-vuex/src/util/resource/http.js",
+				"/E/hadlink/vue-vuex/src/components/pay.vue",
+				"/E/hadlink/vue-vuex/src/components/Pays.vue",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-payment/p-payment.js",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-customerService/p-customerService.tpl",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-about/p-about.js",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-about/p-about.tpl",
+				"/E/hadlink/vue-vuex/src/constants/PayStatus.js",
+				"/E/hadlink/vue-vuex/src/constants/PayType.js",
+				"/E/hadlink/vue-vuex/src/views/ServiceList.vue",
+				"/E/hadlink/vue-vuex/src/views/ServiceInfo.vue",
+				"/E/hadlink/vue-vuex/src/views/Home.vue",
+				"/E/hadlink/vue-vuex/src/views/ChooseCoupon.vue",
+				"/E/hadlink/vue-vuex/src/views/ChooseParts.vue",
+				"/E/hadlink/vue-vuex/src/views/MyCoupon.vue",
+				"/E/hadlink/vue-vuex/src/views/MyCar.vue",
+				"/E/hadlink/new-admin/src/views/finance/income.vue",
+				"/E/hadlink/vue-vuex/src/views/MyAddress.vue",
+				"/E/hadlink/vue-vuex/src/components/Tips.vue",
+				"/E/hadlink/vue-vuex/src/components/Dialog.vue",
+				"/E/hadlink/vue-vuex/src/views/CarYear.vue",
+				"/E/hadlink/vue-vuex/src/views/ServiceDetail.vue",
+				"/E/hadlink/vue-vuex/src/views/PartsDetail.vue",
+				"/E/hadlink/vue-vuex/src/store/middlewares.js",
+				"/E/hadlink/vue-vuex/src/styles/css/global.scss",
+				"/E/hadlink/vue-vuex/src/styles/css/base/_reset.scss",
+				"/E/hadlink/vue-vuex/src/styles/css/base/_type.scss",
+				"/E/hadlink/vue-vuex/src/views/CarModel.vue",
+				"/E/hadlink/new-admin/src/views/order/order-detail.vue",
+				"/E/hadlink/vue-vuex/src/components/checkbox.vue",
+				"/E/hadlink/vue-vuex/src/util/scorll.js",
+				"/E/hadlink/new-admin/src/views/operate/advertisement.vue",
+				"/E/hadlink/vue-vuex/src/components/Contacts.vue",
+				"/E/hadlink/vue-vuex2/package.json",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-slider/c-slider.tpl",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-slider/c-slider.scss",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-slider/c-slider.js",
+				"/E/hadlink/vue-vuex/src/util/directives/tap.js",
+				"/E/hadlink/vue-vuex/src/views/Profile.vue",
+				"/E/hadlink/vue-vuex/src/util/dom.js",
+				"/E/hadlink/vue-vuex/src/views/CarDisplacement.vue",
+				"/E/hadlink/vue-vuex/src/views/Saleback.vue",
+				"/E/hadlink/new-admin/src/views/data/car-model.vue",
+				"/E/hadlink/vue-vuex/src/views/CarOrigin.vue",
+				"/E/hadlink/kaibei-weixin-3.0/client/static/luckyDraw/index.html",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-chooseBrand/p-chooseBrand.tpl",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-chooseBrand/p-chooseBrand.js",
+				"/E/hadlink/vue-vuex/src/views/NotFound.vue",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-chooseBrand/p-chooseBrand.scss",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-contacts/c-contacts.scss",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-contacts/c-contacts.js",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-contacts/c-contacts.tpl",
+				"/E/hadlink/kaibei-weixin-3.0/client/static/luckyDraw/index.js",
+				"/E/hadlink/vue-vuex/src/styles/css/_mixin.scss",
+				"/E/hadlink/vue-vuex/src/styles/css/util/_layout.scss",
+				"/E/hadlink/new-admin/src/component/tips.vue",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-demo/p-demo.js",
+				"/E/hadlink/vue-vuex/src/store/types.js",
+				"/E/hadlink/new-admin/src/views/data/car-logo.vue",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-dialog/c-dialog.js",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-comment/c-comment.tpl",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-demo/p-demo.tpl",
+				"/E/hadlink/kaibei-weixin-3.0/components/p/p-chooseParts/p-chooseParts.js",
+				"/E/hadlink/vue-vuex/src/store/actions.js",
+				"/E/hadlink/vue-vuex/src/store/mutations.js",
+				"/E/hadlink/new-admin/src/component/dialog.vue",
+				"/E/hadlink/vue-vuex/src/views/App.vue",
+				"/E/hadlink/new-admin/src/views/app.vue",
+				"/E/hadlink/new-admin/src/index.js",
+				"/E/hadlink/vue-vuex/src/store/index.js",
+				"/E/hadlink/vue-vuex/src/store/states.js",
+				"/C/Users/acme/Desktop/yy/sll/draw.css",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-dialog/c-dialog.tpl",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-dialog/c-dialog.scss",
+				"/E/hadlink/new-admin/src/views/data/parts-brand.vue",
+				"/E/hadlink/new-admin/src/views/data/car-model-config.vue",
+				"/E/hadlink/new-admin/src/views/other/login.vue",
+				"/E/hadlink/new-admin/src/component/loading.vue",
+				"/E/hadlink/kaibei-weixin-3.0/components/c/c-tips/c-tips.scss",
+				"/E/hadlink/vue-vuex/src/styles/css/base/_icon.scss",
+				"/E/hadlink/kaibei-weixin-3.0/package.json",
+				"/E/hadlink/vue-vuex/src/api/index.js",
+				"/C/Users/acme/Desktop/yy/sll/draw.js",
+				"/C/Users/acme/Desktop/yy/sll/draw.html"
 			],
 			"find":
 			{
-				"height": 46.0
+				"height": 50.0
 			},
 			"find_in_files":
 			{
-				"height": 111.0,
+				"height": 133.0,
 				"where_history":
 				[
-					"E:\\kaibei\\maintance-user-web2\\",
-					"E:\\kaibei\\maintance-user-web2\\cpmponents",
-					"E:\\kaibei\\maintance-user-web\\cpmponents",
-					"E:\\kaibei\\maintance-user-web",
-					"E:\\working\\trunk\\app\\CarHelperPCWeb\\PCWebpage\\hadlink91_admin\\front",
-					"E:\\kaibei\\maintance-user-web",
-					"F:\\acme",
-					"E:\\kaibei\\maintance-user-web",
-					"E:\\kaibei\\maintance-user-web\\components",
-					"E:\\kaibei\\maintance-user-web\\components\\p",
-					"E:\\mobile-startkit\\",
-					"E:\\mobile-startkit\\components\\p\\",
-					"E:\\mobile-startkit\\components\\p\\forEach",
-					"E:\\mobile-startkit\\components\\p\\p-submitOrder\\p-submitOrder.js",
-					"E:\\mobile-startkit\\components\\p\\p-chooseParts\\p-chooseParts.js",
-					"E:\\mobile-startkit\\",
-					"E:\\mobile-startkit\\node_modules\\vue-validator",
-					"E:\\mobile-startkit\\",
-					"E:\\mobile-startkit\\components\\p",
-					"",
-					"E:\\mobile-startkit\\components\\p\\p-chooseParts\\images",
-					""
+					"E:\\hadlink\\kaibei-weixin-3.0",
+					"E:\\hadlink\\vue-vuex\\src",
+					"E:\\hadlink\\vue-vuex\\",
+					"E:\\hadlink\\vue-vuex\\src",
+					"E:\\hadlink\\new-admin\\build,E:\\hadlink\\new-admin\\server,E:\\hadlink\\new-admin\\public",
+					"E:\\hadlink\\new-admin\\build,E:\\hadlink\\new-admin\\server",
+					"E:\\hadlink\\new-admin\\build",
+					"E:\\hadlink\\new-admin",
+					"E:\\hadlink\\new-admin\\config"
 				]
 			},
 			"find_state":
@@ -2154,182 +1089,2128 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"提交",
-					"_notParts",
-					"ddService",
-					"shopServiceId",
-					"shop_service_id",
-					"this.shopServiceId",
-					"serviceCategoryId",
-					"申请退款",
-					"下一步",
-					"getS",
-					"alert",
-					"getC",
-					"chooseCar",
-					"下一步",
-					"webpack",
-					"loaders",
-					"alert",
-					"push",
-					"split",
-					"serviceP",
-					"getC",
-					"serviceId",
-					"setTime",
-					"alert",
-					"servicePrice.serviceid",
-					"parts",
-					"orderAmount",
-					"alert",
-					"getC",
-					"alert(0)",
-					"alert",
-					"_getParts",
-					"_getCar",
-					"_getParts",
-					"_getShop",
-					"getShop",
-					"join",
-					"服务费",
-					"service",
-					"setTime",
-					"shopServiceId",
-					"getShop",
-					"_getParts",
-					"shopServiceId",
-					"服务费",
-					"_notParts",
-					"getS",
-					"wxShare",
-					"setConfig",
-					"wxShare",
-					"setConfig",
-					"servicePrice",
-					"setConfig",
-					"onMenuShareAppMessage",
-					"onShare",
-					"s-address",
-					"shop",
-					"s-address",
-					"address",
-					"addresss",
-					"商务",
-					"时间",
-					"姓名",
-					"填写姓名",
-					"getC",
-					"orderAmount",
-					"this.orderAmount",
-					"resent",
-					"productArray",
-					"getShop",
-					"服务费",
-					"map",
-					"下一步",
-					"map",
-					"http://api.map.baidu.com/geoconv/v1/?",
-					"_getShop",
-					"getS",
-					"推荐门店",
-					"chooseShop",
-					"chooseStores",
-					"下一步",
-					"getC",
-					"下一步",
-					"getCar",
-					"下一步",
+					")\n",
+					"orderDetail",
+					"PAYMENT",
+					"payment",
+					"orderDetail",
+					"PAYMENT",
+					"payment",
+					"paement",
+					"Tips",
+					"jweixin",
+					" https://res.wx.qq.com/open/js/jweixin-1.0.0.js",
+					"setDocTitle",
+					"addOrder",
+					"submit",
+					"addUserCar",
+					"addCar",
+					"car",
+					"timestamp",
+					"login",
+					"url",
+					"background",
+					"border",
+					"pro",
+					"my",
+					"notParts",
+					"isActive",
 					"next",
-					"orderStatus",
-					"noParts",
-					"productArray",
-					"partsOriginal",
-					"productArray",
-					"您已",
-					"closeNode",
-					"close",
-					"WEIXIN_TARGET_URL",
-					"use",
+					"ui-border",
+					"form",
+					"login",
+					"3006",
+					"3007",
+					"servicePa",
+					"LOGIN",
+					"login",
+					"getUserInfo",
+					"locahost",
+					"Weixin",
+					"weixinjs",
+					"wxjs",
+					"GET_OPEN_ID",
+					"GET_OPEN_Id",
+					"changePwdPage",
+					"Pay",
+					"location",
+					"local",
+					"localStorageMiddleware",
+					"locationCity",
+					"city ",
+					"location",
+					"GetLocation",
+					"open",
+					"h5Location",
+					"searchCity",
+					"alert",
+					"api_target",
+					"alert",
+					"LOGIN",
+					"login",
+					"submit",
+					"type",
+					"footer",
+					"getOrderList",
+					"font",
+					"_baiduUri",
+					"el",
+					"expens",
+					"expense",
+					"download",
+					"snabbt",
+					"ui-slider-content",
+					"orderProcess",
+					"payCfgName",
+					"font",
+					"item",
+					".servie",
+					"orderDetail",
+					"maintenance",
+					"service",
+					"goServiceList",
+					"//",
+					"icon-right",
+					"const",
+					".service",
+					"totalPrice",
+					"onSwitch",
+					"isBalance",
+					"route",
+					"go",
+					"isActive",
+					"active",
+					"tips",
+					"service",
+					"chooseWXPay",
+					"restApi",
+					"priceTotal",
+					"priceTotal ",
+					"orderDetailsProduct",
+					"serviceParts",
+					"buildPrice",
+					"disabled",
+					"addOrder",
+					"detail",
+					"selectService",
+					"serviceInfo",
+					"Dialog",
+					"Tips",
+					"tips",
+					"Switch",
+					"switch",
+					"Tips",
 					"dialog",
-					"display",
-					"dialog",
-					"dialog]",
-					"showContainer",
-					"loading",
-					"hideLoading",
-					"loading",
-					"map",
-					"this.shop",
-					"shop",
-					"lat",
-					"map",
-					"coords",
-					"date",
-					"steps.date",
-					"steps[0].date",
-					"steps",
-					"fis-conf",
-					"babel",
-					"uglify",
-					"media",
-					"vdate",
-					"ot",
-					"invalid",
-					"process_name",
-					"orderStatus",
-					"process",
-					"user-car",
-					"service-time",
-					"process",
-					"服务流程"
+					"isBalance",
+					"kyBalance",
+					"GET_SERVICE_COUPON",
+					"toggleCoupon ",
+					"selectService",
+					"partsPrice",
+					"getService",
+					"getExpense",
+					"/pay/getExpense",
+					"coupon",
+					"updateCoupon",
+					"coupon-item",
+					"getServiceCoupon",
+					"getServiceCoupon ",
+					"v-if",
+					"getCoupon"
 				],
-				"highlight": false,
+				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
 				"regex": false,
 				"replace_history":
 				[
-					"this"
 				],
 				"reverse": false,
-				"show_context": false,
+				"show_context": true,
 				"use_buffer2": true,
 				"whole_word": false,
-				"wrap": false
+				"wrap": true
 			},
 			"folders":
 			[
 				{
-					"path": "F:\\acme"
+					"path": "E:\\hadlink\\vue-vuex"
 				},
 				{
-					"path": "E:\\kaibei\\maintance-user-web\\client\\static\\coupon-kongtiao"
-				},
-				{
-					"path": "E:\\kaibei\\maintance-user-web2"
-				},
-				{
-					"path": "F:\\sd"
-				},
-				{
-					"path": "E:\\kaibei\\new-admin"
+					"path": "E:\\hadlink\\kaibei-weixin-3.0"
 				}
 			],
 			"groups":
 			[
 				{
+					"selected": 5,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/E/hadlink/vue-vuex/src/views/Home.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5408,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2175,
+										2175
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2030.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/hadlink/vue-vuex/src/views/CarModel.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1074,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										562,
+										562
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 560.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/hadlink/vue-vuex/src/views/CarYear.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1272,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										788,
+										788
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 980.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/hadlink/vue-vuex/src/views/OrderDetail.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4342,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2521,
+										2567
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1745.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/E/hadlink/vue-vuex/src/views/MyOrder.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4319,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2346,
+										2346
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2016.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/Users/acme/Desktop/Contacts.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6862,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/E/hadlink/vue-vuex/src/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 592,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										503,
+										503
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 15,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/E/hadlink/vue-vuex/server/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2696,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2486,
+										2486
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1932.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 16,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/E/hadlink/vue-vuex/src/views/Activities.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4136,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										186,
+										186
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/E/hadlink/vue-vuex/src/views/ServiceParts.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6785,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1538,
+										1516
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1409.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/E/hadlink/vue-vuex/src/components/Pay.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1872,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1191,
+										1191
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1316.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/E/hadlink/kaibei-weixin-3.0/components/p/p-payment/p-payment.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3745,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2807,
+										2807
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1008.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/E/hadlink/kaibei-weixin-3.0/components/p/p-payment/p-payment.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 515,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/SCSS/SCSS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 20,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/E/hadlink/kaibei-weixin-3.0/components/p/p-payment/p-payment.tpl",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 316,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 19,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 14,
+							"file": "/E/hadlink/vue-vuex/src/store/states.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2447,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										434,
+										434
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 233.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "/E/hadlink/vue-vuex/src/store/mutations.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14171,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3329,
+										3329
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"history_list_is_closing": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2828.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 16,
+							"file": "/E/hadlink/vue-vuex/src/store/actions.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7881,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										972,
+										972
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 532.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 17,
+							"file": "/E/hadlink/vue-vuex/src/store/types.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2290,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										112,
+										112
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 18,
+							"file": "/E/hadlink/vue-vuex/src/api/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3171,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1227,
+										1227
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 658.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 19,
+							"file": "/E/hadlink/vue-vuex/src/store/middlewares.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 550,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										548,
+										548
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 18,
+							"type": "text"
+						},
+						{
+							"buffer": 20,
+							"file": "/E/hadlink/vue-vuex/config/development.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 179,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										105,
+										72
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 17,
+							"type": "text"
+						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 30.0
+				"height": 50.0
 			},
 			"input":
 			{
-				"height": 38.0
+				"height": 0.0
 			},
 			"layout":
 			{
@@ -2340,11 +3221,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.536781609196,
 					1.0
 				],
 				"rows":
@@ -2353,17 +3241,17 @@
 					1.0
 				]
 			},
-			"menu_visible": true,
+			"menu_visible": false,
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,1021,178,41,1536",
+			"position": "0,2,3,-32000,-32000,-1,-1,647,1133,108,1789",
 			"project": "",
 			"replace":
 			{
-				"height": 56.0
+				"height": 68.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2373,464 +3261,156 @@
 				"selected_items":
 				[
 					[
-						"home",
-						"maintance-user-web2\\components\\p\\p-home\\p-home.tpl"
-					],
-					[
-						"choosesto",
-						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.tpl"
-					],
-					[
-						"choosestores",
-						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.js"
-					],
-					[
-						"inputre",
-						"maintance-user-web2\\components\\p\\p-inputReport\\p-inputReport.js"
-					],
-					[
 						"myorder",
-						"maintance-user-web2\\components\\p\\p-myOrder\\p-myOrder.tpl"
+						"vue-vuex\\src\\views\\MyOrder.vue"
 					],
 					[
-						"orderd",
-						"maintance-user-web2\\.dist\\public\\c\\3.0.0\\p\\p-orderDetail\\p-orderDetail.tpl"
-					],
-					[
-						"order",
-						"maintance-user-web2\\components\\p\\p-orderDetail\\p-orderDetail.tpl"
-					],
-					[
-						"submit",
-						"maintance-user-web2\\components\\p\\p-submitOrder2\\p-submitOrder2.js"
-					],
-					[
-						"choosec",
-						"maintance-user-web2\\components\\p\\p-chooseCar\\p-chooseCar.js"
-					],
-					[
-						"shopde",
-						"maintance-user-web2\\components\\p\\p-shopDetail\\p-shopDetail.js"
-					],
-					[
-						"choosesho",
-						"maintance-user-web2\\components\\p\\p-chooseShop\\p-chooseShop.js"
-					],
-					[
-						"orderdeta",
-						"maintance-user-web2\\components\\p\\p-orderDetail\\p-orderDetail.js"
-					],
-					[
-						"cooperation",
-						"maintance-user-web2\\components\\p\\p-cooperation\\p-cooperation.js"
-					],
-					[
-						"chooseparts",
-						"maintance-user-web2\\components\\p\\p-chooseParts\\p-chooseParts.js"
-					],
-					[
-						"orderde",
-						"maintance-user-web2\\components\\p\\p-orderDetail\\p-orderDetail.js"
-					],
-					[
-						"chooses",
-						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.tpl"
-					],
-					[
-						"shopd",
-						"maintance-user-web2\\components\\p\\p-shopDetail\\p-shopDetail.js"
-					],
-					[
-						"choosestores/",
-						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.js"
-					],
-					[
-						"submitorder",
-						"maintance-user-web2\\components\\p\\p-submitOrder2\\p-submitOrder2.js"
-					],
-					[
-						"chooseparets",
-						"maintance-user-web2\\components\\p\\p-chooseParts\\p-chooseParts.js"
-					],
-					[
-						"choosecoupon",
-						"maintance-user-web2\\components\\p\\p-chooseCoupon\\p-chooseCoupon.tpl"
-					],
-					[
-						"choosecou",
-						"maintance-user-web2\\components\\p\\p-chooseCoupon\\p-chooseCoupon.js"
-					],
-					[
-						"c-select",
-						"maintance-user-web2\\components\\c\\c-selector\\c-selector.tpl"
-					],
-					[
-						"choosest",
-						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.js"
-					],
-					[
-						"mycou",
-						"maintance-user-web2\\components\\p\\p-myCoupon\\p-myCoupon.js"
-					],
-					[
-						"payment",
-						"maintance-user-web2\\components\\p\\p-payment\\p-payment.js"
-					],
-					[
-						"ordrd",
-						"maintance-user-web2\\components\\p\\p-orderDetail\\p-orderDetail.js"
-					],
-					[
-						"map.ht",
-						"maintance-user-web2\\.dist\\static\\map\\map.html"
-					],
-					[
-						"c-coupo",
-						"maintance-user-web2\\components\\c\\c-coupon\\c-coupon.scss"
-					],
-					[
-						"c-coupon",
-						"maintance-user-web2\\components\\c\\c-coupon\\c-coupon.tpl"
-					],
-					[
-						"choosestore",
-						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.scss"
-					],
-					[
-						"choosestoer",
-						"maintance-user-web2\\components\\p\\p-chooseStores\\p-chooseStores.js"
-					],
-					[
-						"addser",
-						"maintance-user-web2\\components\\p\\p-addService2\\p-addService2.js"
-					],
-					[
-						"myc",
-						"maintance-user-web\\components\\p\\p-myCoupon\\p-myCoupon.tpl"
-					],
-					[
-						"mycoup",
-						"maintance-user-web\\components\\p\\p-myCoupon\\p-myCoupon.js"
-					],
-					[
-						"mymess",
-						"maintance-user-web\\components\\p\\p-myMessage\\p-myMessage.js"
-					],
-					[
-						"deta",
-						"maintance-user-web\\components\\p\\p-detail\\p-detail.js"
-					],
-					[
-						"demo",
-						"maintance-user-web\\client\\font\\kaibei\\demo.js"
-					],
-					[
-						"bindphone",
-						"maintance-user-web\\components\\p\\p-bindPhone\\p-bindPhone.js"
-					],
-					[
-						"choosebrand",
-						"maintance-user-web\\components\\p\\p-chooseBrand\\p-chooseBrand.tpl"
-					],
-					[
-						"chooseproduct",
-						"maintance-user-web\\components\\p\\p-chooseProduct2\\p-chooseProduct2.js"
-					],
-					[
-						"about",
-						"maintance-user-web\\components\\p\\p-about\\p-about.tpl"
-					],
-					[
-						"chooseshop",
-						"maintance-user-web\\components\\p\\p-chooseShop\\p-chooseShop.js"
-					],
-					[
-						"addsre",
-						"maintance-user-web\\components\\p\\p-addService2\\p-addService2.js"
-					],
-					[
-						"choose",
-						"maintance-user-web\\components\\p\\p-chooseStores\\p-chooseStores.tpl"
-					],
-					[
-						"choosetime",
-						"maintance-user-web\\components\\p\\p-chooseTime\\p-chooseTime.js"
-					],
-					[
-						"choosepr",
-						"maintance-user-web\\components\\p\\p-chooseProduct2\\p-chooseProduct2.tpl"
-					],
-					[
-						"choosepro",
-						"maintance-user-web\\components\\p\\p-chooseProduct2\\p-chooseProduct2.js"
-					],
-					[
-						"mycoupon",
-						"maintance-user-web\\components\\p\\p-myCoupon\\p-myCoupon.js"
-					],
-					[
-						"orderphone",
-						"maintance-user-web\\components\\p\\p-orderPhone\\p-orderPhone.js"
-					],
-					[
-						"choosecpu",
-						"maintance-user-web\\components\\p\\p-chooseCoupon\\p-chooseCoupon.js"
-					],
-					[
-						"shopc",
-						"maintance-user-web\\components\\p\\p-shopComment\\p-shopComment.js"
-					],
-					[
-						"choosecoup",
-						"maintance-user-web\\components\\p\\p-chooseCoupon\\p-chooseCoupon.js"
-					],
-					[
-						"chooseb",
-						"maintance-user-web\\components\\p\\p-chooseBrand\\p-chooseBrand.js"
-					],
-					[
-						"shopdeta",
-						"maintance-user-web\\components\\p\\p-shopDetail\\p-shopDetail.tpl"
-					],
-					[
-						"add",
-						"maintance-user-web\\components\\p\\p-addService\\p-addService.js"
-					],
-					[
-						"choosepa",
-						"maintance-user-web\\components\\p\\p-chooseParts\\p-chooseParts.js"
-					],
-					[
-						"rot",
-						"maintance-user-web\\node_modules\\vue-touch\\node_modules\\hammerjs\\src\\recognizers\\rotate.js"
-					],
-					[
-						"p-map",
-						"maintance-user-web\\components\\p\\p-map\\p-map.js"
-					],
-					[
-						"myor",
-						"maintance-user-web\\components\\p\\p-myOrder\\p-myOrder.tpl"
-					],
-					[
-						"date",
-						"maintance-user-web\\node_modules\\swig\\lib\\dateformatter.js"
-					],
-					[
-						"choosepart",
-						"maintance-user-web\\components\\p\\p-chooseParts\\p-chooseParts.tpl"
-					],
-					[
-						"p-about",
-						"maintance-user-web\\components\\p\\p-about\\p-about.tpl"
-					],
-					[
-						"about.",
-						"maintance-user-web\\components\\p\\p-about\\p-about.js"
-					],
-					[
-						"choosestor",
-						"maintance-user-web\\components\\p\\p-chooseStores\\p-chooseStores.js"
-					],
-					[
-						"choosecar",
-						"maintance-user-web\\components\\p\\p-chooseCar\\p-chooseCar.js"
-					],
-					[
-						"refund",
-						"maintance-user-web\\components\\p\\p-refund\\p-refund.tpl"
-					],
-					[
-						"myordr",
-						"maintance-user-web\\components\\p\\p-myOrder\\p-myOrder.tpl"
-					],
-					[
-						"chooseproduc",
-						"maintance-user-web\\components\\p\\p-chooseProduct2\\p-chooseProduct2.tpl"
-					],
-					[
-						"pay",
-						"maintance-user-web\\components\\p\\p-payment\\p-payment.js"
-					],
-					[
-						"choosep",
-						"maintance-user-web\\components\\p\\p-chooseParts\\p-chooseParts.js"
-					],
-					[
-						"adds",
-						"maintance-user-web\\components\\p\\p-addService\\p-addService.js"
-					],
-					[
-						"loading",
-						"maintance-user-web\\components\\c\\c-loading\\c-loading.scss"
-					],
-					[
-						"mycoun",
-						"maintance-user-web\\components\\p\\p-myCoupon\\p-myCoupon.js"
-					],
-					[
-						"mycar",
-						"maintance-user-web\\components\\p\\p-myCar\\p-myCar.js"
-					],
-					[
-						"myme",
-						"maintance-user-web\\components\\p\\p-myMessage\\p-myMessage.tpl"
-					],
-					[
-						"router",
-						"maintance-user-web\\server\\middleware\\router.js"
-					],
-					[
-						"bindp",
-						"maintance-user-web\\components\\p\\p-bindPhone\\p-bindPhone.js"
-					],
-					[
-						"c-load",
-						"maintance-user-web\\components\\c\\c-loading\\c-loading.tpl"
-					],
-					[
-						"payme",
-						"components\\p\\p-payment\\p-payment.js"
-					],
-					[
-						"submitor",
-						"components\\p\\p-submitOrder\\p-submitOrder.scss"
-					],
-					[
-						"orderpho",
-						"components\\p\\p-orderPhone\\p-orderPhone.js"
-					],
-					[
-						"api",
-						"components\\boot\\restApi.js"
-					],
-					[
-						"chooseca",
-						"components\\p\\p-chooseCar\\p-chooseCar.scss"
-					],
-					[
-						"comment",
-						"components\\p\\p-comment\\p-comment.js"
-					],
-					[
-						"commen",
-						"components\\p\\p-comment\\p-comment.js"
-					],
-					[
-						"myo",
-						"components\\p\\p-myOrder\\p-myOrder.js"
-					],
-					[
-						"bindphoe",
-						"components\\p\\p-bindPhone\\p-bindPhone.js"
-					],
-					[
-						"shop",
-						"components\\p\\p-shopComment\\p-shopComment.tpl"
-					],
-					[
-						"chopdeta",
-						"components\\p\\p-shopDetail\\p-shopDetail.js"
-					],
-					[
-						"checkre",
-						"components\\p\\p-checkReport\\p-checkReport.js"
-					],
-					[
-						"ordrde",
-						"components\\p\\p-orderDetail\\p-orderDetail.js"
-					],
-					[
-						"coupo",
-						".dist\\public\\c\\3.0.0\\c\\c-coupon\\c-coupon.js"
-					],
-					[
-						"c-star",
-						"components\\c\\c-star\\c-star.js"
-					],
-					[
-						"orderdea",
-						"components\\p\\p-orderDetail\\p-orderDetail.tpl"
-					],
-					[
-						"chooset",
-						"components\\p\\p-chooseTime\\p-chooseTime.js"
-					],
-					[
-						"dialog",
-						"components\\c\\c-dialog\\c-dialog.js"
-					],
-					[
-						"choosepar",
-						"components\\p\\p-chooseParts\\p-chooseParts.js"
-					],
-					[
-						"check",
-						"components\\p\\p-checkReport\\p-checkReport.js"
-					],
-					[
-						"checkr",
-						"components\\p\\p-checkReport\\p-checkReport.tpl"
-					],
-					[
-						"checkd",
-						"components\\p\\p-checkDetail\\p-checkDetail.scss"
-					],
-					[
-						"report",
-						"components\\p\\p-checkReport\\p-checkReport.tpl"
-					],
-					[
-						"refun",
-						"components\\p\\p-refund\\p-refund.tpl"
-					],
-					[
-						"rest",
-						"maintance-user-web\\components\\boot\\restApi.js"
-					],
-					[
-						"rou",
-						"mobile-startkit\\components\\boot\\routes.js"
+						"home",
+						"vue-vuex\\src\\views\\Home.vue"
 					],
 					[
 						"route",
-						"mobile-startkit\\components\\boot\\routes.js"
+						"server\\middleware\\router.js"
 					],
 					[
-						"datepic/",
-						"mobile-startkit\\components\\c\\c-datepicker\\c-datepicker.js"
+						"caryear",
+						"src\\views\\CarYear.vue"
 					],
 					[
-						"res",
-						"mobile-startkit\\components\\boot\\restApi.js"
+						"carmod",
+						"src\\views\\CarModel.vue"
 					],
 					[
-						"datepick",
-						"mobile-startkit\\components\\c\\c-datepicker\\c-datepicker.tpl"
+						"car",
+						"src\\views\\CarBrand.vue"
 					],
 					[
-						"city",
-						"mobile-startkit\\components\\c\\c-city\\c-city.js"
+						"order",
+						"src\\views\\OrderDetail.vue"
 					],
 					[
-						"routes",
-						"mobile-startkit\\components\\boot\\routes.js"
+						"chooseser",
+						"src\\views\\ChooseService.vue"
 					],
 					[
-						"home.sc",
-						"mobile-startkit\\components\\p\\p-home\\p-home.scss"
+						"demo",
+						"src\\views\\Demo.vue"
 					],
 					[
-						"c-dialog",
-						"mobile-startkit\\components\\c\\c-dialog\\c-dialog.js"
+						"orderde",
+						"src\\views\\OrderDetail.vue"
 					],
 					[
-						"p-choose",
-						"components\\p\\p-chooseParts\\p-chooseParts.tpl"
+						"chooseservice",
+						"src\\views\\ChooseService.vue"
 					],
 					[
-						"p-choosep",
-						"components\\p\\p-chooseParts\\p-chooseParts.js"
+						"choose",
+						"src\\views\\ChooseCity.vue"
+					],
+					[
+						"serviceparts",
+						"src\\views\\ServiceParts.vue"
+					],
+					[
+						"pay",
+						"src\\components\\Pay.vue"
+					],
+					[
+						"choosec",
+						"src\\views\\ChooseCity.vue"
+					],
+					[
+						"switch",
+						"src\\components\\Switch.vue"
+					],
+					[
+						"slider",
+						"src\\components\\Slider.vue"
+					],
+					[
+						"locaion",
+						"src\\components\\Location.vue"
+					],
+					[
+						"servicelist",
+						"src\\views\\ServiceList.vue"
+					],
+					[
+						"chooses",
+						"src\\views\\ChooseService.vue"
+					],
+					[
+						"service",
+						"src\\views\\ServiceParts.vue"
+					],
+					[
+						"serviceinfo",
+						"src\\views\\ServiceInfo.vue"
+					],
+					[
+						"mycoupon",
+						"src\\views\\MyCoupon.vue"
+					],
+					[
+						"servicep",
+						"src\\views\\ServiceParts.vue"
+					],
+					[
+						"myca",
+						"src\\views\\MyCar.vue"
+					],
+					[
+						"myadd",
+						"src\\views\\MyAddress.vue"
+					],
+					[
+						"tips",
+						"src\\components\\Tips.vue"
+					],
+					[
+						"dialog",
+						"src\\components\\Dialog.vue"
+					],
+					[
+						"myc",
+						"src\\views\\MyCar.vue"
+					],
+					[
+						"cary",
+						"src\\views\\CarYear.vue"
+					],
+					[
+						"choosecity",
+						"src\\views\\ChooseCity.vue"
+					],
+					[
+						"mycar",
+						"src\\views\\MyCar.vue"
+					],
+					[
+						"carbr",
+						"src\\views\\CarBrand.vue"
+					],
+					[
+						"muta",
+						"vue-vuex\\src\\store\\mutations.js"
+					],
+					[
+						"car-logo",
+						"new-admin\\src\\views\\data\\car-logo.vue"
+					],
+					[
+						"storesedit",
+						"src\\views\\stores\\stores-edit.vue"
+					],
+					[
+						"storesadd",
+						"src\\views\\stores\\stores-add.vue"
+					],
+					[
+						"api",
+						"src\\services\\restApi.js"
 					]
 				],
 				"width": 0.0
@@ -2858,10 +3438,10 @@
 			{
 			},
 			"show_minimap": true,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 251.0,
+			"side_bar_width": 180.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
